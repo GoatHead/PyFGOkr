@@ -77,17 +77,21 @@ if isYes():
         print('='*(llength+2))
         while not minvalue > 0:
             print('최소 id를 설정해주세요. (기본값: 1)')
-            minvalue = input()
-            if minvalue == '': minvalue = 1
-            else: minvalue = int(minvalue)
-        minvalue = int(minvalue)
+            try:
+                minvalue = input()
+                if minvalue == '': minvalue = 1
+                else: minvalue = int(minvalue)
+            except:
+                minvalue = 0
         maxvalue = 0
         while not (maxvalue > 0 and maxvalue > minvalue):
             print('최대 id를 설정해주세요. (기본값: 500)')
-            maxvalue = input()
-            if maxvalue == '': maxvalue = 500
-            else: maxvalue = int(maxvalue)
-        maxvalue = int(maxvalue)
+            try:
+                maxvalue = input()
+                if maxvalue == '': maxvalue = 500
+                else: maxvalue = int(maxvalue)
+            except ValueError:
+                maxvalue = 0
         crawl_servimg(minvalue, maxvalue+1)
     if crCrawl:
         minvalue = 0
@@ -97,17 +101,21 @@ if isYes():
         print('=' * (llength + 2))
         while not minvalue > 0:
             print('최소 id를 설정해주세요. (기본값: 1)')
-            minvalue = input()
-            if minvalue == '': minvalue = 1
-            else: minvalue = int(minvalue)
-        minvalue = int(minvalue)
+            try:
+                minvalue = input()
+                if minvalue == '': minvalue = 1
+                else: minvalue = int(minvalue)
+            except:
+                minvalue = 0
         maxvalue = 0
         while not (maxvalue > 0 and maxvalue > minvalue):
             print('최대 id를 설정해주세요. (기본값: 2000)')
-            maxvalue = input()
-            if maxvalue == '': maxvalue = 2000
-            else : maxvalue = int(maxvalue)
-        maxvalue = int(maxvalue)
+            try:
+                maxvalue = input()
+                if maxvalue == '': maxvalue = 500
+                else: maxvalue = int(maxvalue)
+            except ValueError:
+                maxvalue = 0
         crawl_craftimg(minvalue, maxvalue+1)
     print('크롤링이 끝났습니다. 프로그램을 종료합니다.')
     print('Press enter to exit')
