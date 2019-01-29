@@ -1,3 +1,4 @@
+from sys import exit
 import sys
 import os
 fpath = os.path.dirname(__file__)
@@ -16,7 +17,8 @@ def crawl_craftimg(MINRANGE=1, MAXRANGE=2000):
         if response.status_code == 404:
             break
         else:
-            with open('all_data/cr/cr{0:03d}.png'.format(imgno), 'wb') as out_file:
+            cpath = os.path.join(fpath, 'all_data/cr/cr{0:03d}.png'.format(imgno).replace('\\', '/'))
+            with open(cpath, 'wb') as out_file:
                 print('copy: {}'.format(out_file.name))
                 shutil.copyfileobj(response.raw, out_file)
         del response
@@ -28,7 +30,8 @@ def crawl_servimg(MINRANGE=1, MAXRANGE=500):
         if response.status_code == 404:
             break
         else:
-            with open('all_data/{0:03d}.png'.format(imgno), 'wb') as out_file:
+            cpath = os.path.join(fpath, 'all_data/{0:03d}.png'.format(imgno).replace('\\', '/'))
+            with open(cpath, 'wb') as out_file:
                 print('copy: {}'.format(out_file.name))
                 shutil.copyfileobj(response.raw, out_file)
         del response
@@ -74,14 +77,16 @@ if isYes():
         print('='*(llength+2))
         while not minvalue > 0:
             print('최소 id를 설정해주세요. (기본값: 1)')
-            minvalue = int(input())
+            minvalue = input()
             if minvalue == '': minvalue = 1
+            else: minvalue = int(minvalue)
         minvalue = int(minvalue)
         maxvalue = 0
         while not (maxvalue > 0 and maxvalue > minvalue):
             print('최대 id를 설정해주세요. (기본값: 500)')
-            maxvalue = int(input())
+            maxvalue = input()
             if maxvalue == '': maxvalue = 500
+            else: maxvalue = int(maxvalue)
         maxvalue = int(maxvalue)
         crawl_servimg(minvalue, maxvalue+1)
     if crCrawl:
@@ -92,14 +97,16 @@ if isYes():
         print('=' * (llength + 2))
         while not minvalue > 0:
             print('최소 id를 설정해주세요. (기본값: 1)')
-            minvalue = int(input())
+            minvalue = input()
             if minvalue == '': minvalue = 1
+            else: minvalue = int(minvalue)
         minvalue = int(minvalue)
         maxvalue = 0
         while not (maxvalue > 0 and maxvalue > minvalue):
             print('최대 id를 설정해주세요. (기본값: 2000)')
-            maxvalue = int(input())
+            maxvalue = input()
             if maxvalue == '': maxvalue = 2000
+            else : maxvalue = int(maxvalue)
         maxvalue = int(maxvalue)
         crawl_craftimg(minvalue, maxvalue+1)
     print('크롤링이 끝났습니다. 프로그램을 종료합니다.')
