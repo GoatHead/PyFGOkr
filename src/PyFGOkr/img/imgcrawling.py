@@ -60,6 +60,8 @@ print('='*(llength+2))
 if isYes():
     imgpath = fpath + '/all_data/'
     crpath = imgpath + 'cr/'
+    if not os.path.exists(imgpath):
+        os.mkdir(imgpath)
     srvnCrawl = False
     crCrawl = False
     print('서번트를 크롤링합니까?')
@@ -69,8 +71,6 @@ if isYes():
     if srvnCrawl:
         minvalue = 0
         print('서번트 크롤링을 시작합니다.')
-        if not os.path.exists(imgpath):
-            os.mkdir(imgpath)
         print('='*(llength+2))
         while not minvalue > 0:
             print('최소 id를 설정해주세요. (기본값: 1)')
