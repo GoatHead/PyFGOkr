@@ -7,8 +7,6 @@ from datetime import datetime
 import random
 import time
 
-#####global var
-now = datetime.now()
 class globe:
     prefix_str = ''
 ################function
@@ -430,6 +428,7 @@ def gacha_simulate(args=[], np_lvl=1, star=5, option='string'):
     return
 
 def gacha_run(key='temp', test=False):
+    now = datetime.now()
     if test:
         st = time.time()
     globe.prefix_str = str(now.year) + str(now.day) + str(now.minute) + str(now.second)
