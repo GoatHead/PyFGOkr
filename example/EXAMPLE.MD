@@ -13,4 +13,4 @@
 | view_pickup.call_discord(...)<br />`인자로 년도 기호를 입력` | ![ex09](img/ex9.PNG)  |
 | view_pickup.call_discord(...)<br />`인자로 년도 기호와 페이지를 입력` | ![ex10](img/ex10.PNG) |
 | view_pickup.call_discord(...)<br />`인자로 픽업 id를 입력`   | ![ex11](img/ex11.PNG) |
-
+| itemsurfer 이용 예<br />`일본 데이터와 한국 데이터`   | ![ex11](img/ex12.PNG) |
