@@ -1,0 +1,4969 @@
+{
+    "jp": {
+        "Proof of Hero": {
+            "rank": [
+                {
+                    "area": "Okeanos",
+                    "quest": "Pirate Ship",
+                    "takeap": "12",
+                    "ap_per_drop": "20.1",
+                    "dropchance": "59.7%"
+                },
+                {
+                    "area": "Orleans",
+                    "quest": "Marseille",
+                    "takeap": "7",
+                    "ap_per_drop": "23.8",
+                    "dropchance": "29.5%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Dallas",
+                    "takeap": "17",
+                    "ap_per_drop": "25.0",
+                    "dropchance": "67.9%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Pirate Island",
+                    "takeap": "13",
+                    "ap_per_drop": "25.3",
+                    "dropchance": "51.4%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Montgomery",
+                    "takeap": "18",
+                    "ap_per_drop": "28.6",
+                    "dropchance": "62.8%"
+                }
+            ]
+        },
+        "Evil Bone": {
+            "rank": [
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-C",
+                    "takeap": "4",
+                    "ap_per_drop": "21.7",
+                    "dropchance": "18.4%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-G",
+                    "takeap": "15",
+                    "ap_per_drop": "23.6",
+                    "dropchance": "63.5%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-D",
+                    "takeap": "5",
+                    "ap_per_drop": "24.7",
+                    "dropchance": "20.2%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-B",
+                    "takeap": "4",
+                    "ap_per_drop": "26.6",
+                    "dropchance": "15.0%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-E",
+                    "takeap": "5",
+                    "ap_per_drop": "27.6",
+                    "dropchance": "18.1%"
+                }
+            ]
+        },
+        "Dragon Fang": {
+            "rank": [
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Deming",
+                    "takeap": "17",
+                    "ap_per_drop": "27.4",
+                    "dropchance": "62.1%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Island of Wyverns",
+                    "takeap": "14",
+                    "ap_per_drop": "27.7",
+                    "dropchance": "50.6%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Eridu",
+                    "takeap": "21",
+                    "ap_per_drop": "31.9",
+                    "dropchance": "65.8%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Mapped Island",
+                    "takeap": "13",
+                    "ap_per_drop": "34.3",
+                    "dropchance": "37.9%"
+                },
+                {
+                    "area": "Agartha",
+                    "quest": "Jungle at the Foothills",
+                    "takeap": "21",
+                    "ap_per_drop": "42.4",
+                    "dropchance": "49.5%"
+                }
+            ]
+        },
+        "Void's Dust": {
+            "rank": [
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Charlotte",
+                    "takeap": "20",
+                    "ap_per_drop": "31.3",
+                    "dropchance": "63.9%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "West Village Ruins",
+                    "takeap": "20",
+                    "ap_per_drop": "43.7",
+                    "dropchance": "45.8%"
+                },
+                {
+                    "area": "Septem",
+                    "quest": "Massilia",
+                    "takeap": "9",
+                    "ap_per_drop": "48.9",
+                    "dropchance": "18.4%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Riverton",
+                    "takeap": "17",
+                    "ap_per_drop": "51.6",
+                    "dropchance": "33.0%"
+                },
+                {
+                    "area": "Götterdämmerung",
+                    "quest": "Landing Point",
+                    "takeap": "20",
+                    "ap_per_drop": "57.1",
+                    "dropchance": "35.0%"
+                }
+            ]
+        },
+        "Fool's Chain": {
+            "rank": [
+                {
+                    "area": "Camelot",
+                    "quest": "Wastelands of Death",
+                    "takeap": "19",
+                    "ap_per_drop": "29.4",
+                    "dropchance": "64.5%"
+                },
+                {
+                    "area": "Salem",
+                    "quest": "Quay",
+                    "takeap": "21",
+                    "ap_per_drop": "51.4",
+                    "dropchance": "40.9%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Great Temple",
+                    "takeap": "22",
+                    "ap_per_drop": "52.2",
+                    "dropchance": "42.1%"
+                },
+                {
+                    "area": "Agartha",
+                    "quest": "Nightless City",
+                    "takeap": "21",
+                    "ap_per_drop": "52.5",
+                    "dropchance": "40.0%"
+                },
+                {
+                    "area": "Salem",
+                    "quest": "Suburb Mansion",
+                    "takeap": "21",
+                    "ap_per_drop": "53.2",
+                    "dropchance": "39.5%"
+                }
+            ]
+        },
+        "Deadly Poisonous Needle": {
+            "rank": [
+                {
+                    "area": "Babylonia",
+                    "quest": "Field of Reeds",
+                    "takeap": "21",
+                    "ap_per_drop": "33.8",
+                    "dropchance": "62.1%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Plateau",
+                    "takeap": "20",
+                    "ap_per_drop": "40.0",
+                    "dropchance": "50.0%"
+                },
+                {
+                    "area": "Anastasia",
+                    "quest": "Anchor Point",
+                    "takeap": "20",
+                    "ap_per_drop": "47.1",
+                    "dropchance": "42.5%"
+                },
+                {
+                    "area": "SIN",
+                    "quest": "Neighboring Village",
+                    "takeap": "20",
+                    "ap_per_drop": "47.2",
+                    "dropchance": "42.4%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Northern Wall",
+                    "takeap": "21",
+                    "ap_per_drop": "49.9",
+                    "dropchance": "42.0%"
+                }
+            ]
+        },
+        "Magic Cerebrospinal Fluid": {
+            "rank": [
+                {
+                    "area": "Shinjuku",
+                    "quest": "Shinjuku Station",
+                    "takeap": "21",
+                    "ap_per_drop": "32.3",
+                    "dropchance": "65.0%"
+                },
+                {
+                    "area": "Shinjuku",
+                    "quest": "Japan National Route 20",
+                    "takeap": "20",
+                    "ap_per_drop": "49.6",
+                    "dropchance": "40.3%"
+                },
+                {
+                    "area": "Shinjuku",
+                    "quest": "Yoyogi 2-chome",
+                    "takeap": "20",
+                    "ap_per_drop": "50.3",
+                    "dropchance": "39.8%"
+                },
+                {
+                    "area": "Shinjuku",
+                    "quest": "Shinjuku 4-chome",
+                    "takeap": "21",
+                    "ap_per_drop": "53.8",
+                    "dropchance": "39.1%"
+                },
+                {
+                    "area": "Shinjuku",
+                    "quest": "Shinjuku Imperial Garden",
+                    "takeap": "21",
+                    "ap_per_drop": "68.8",
+                    "dropchance": "30.5%"
+                }
+            ]
+        },
+        "Night-Weeping Iron Stake": {
+            "rank": [
+                {
+                    "area": "Salem",
+                    "quest": "Gallow Hill",
+                    "takeap": "21",
+                    "ap_per_drop": "30.5",
+                    "dropchance": "68.8%"
+                },
+                {
+                    "area": "Salem",
+                    "quest": "Carter House",
+                    "takeap": "20",
+                    "ap_per_drop": "49.5",
+                    "dropchance": "40.4%"
+                },
+                {
+                    "area": "Salem",
+                    "quest": "Meadows",
+                    "takeap": "21",
+                    "ap_per_drop": "49.7",
+                    "dropchance": "42.2%"
+                },
+                {
+                    "area": "Salem",
+                    "quest": "Vacant House",
+                    "takeap": "21",
+                    "ap_per_drop": "50.0",
+                    "dropchance": "42.0%"
+                },
+                {
+                    "area": "Salem",
+                    "quest": "Suburb Mansion",
+                    "takeap": "21",
+                    "ap_per_drop": "53.3",
+                    "dropchance": "39.4%"
+                }
+            ]
+        },
+        "Induced Oscillation Gunpowder": {
+            "rank": [
+                {
+                    "area": "Anastasia",
+                    "quest": "Yaga Smolensk",
+                    "takeap": "20",
+                    "ap_per_drop": "30.6",
+                    "dropchance": "65.3%"
+                },
+                {
+                    "area": "Anastasia",
+                    "quest": "Rebellion Army's Stronghold",
+                    "takeap": "21",
+                    "ap_per_drop": "51.6",
+                    "dropchance": "40.7%"
+                },
+                {
+                    "area": "Anastasia",
+                    "quest": "Devastated Village",
+                    "takeap": "21",
+                    "ap_per_drop": "52.4",
+                    "dropchance": "40.0%"
+                },
+                {
+                    "area": "Anastasia",
+                    "quest": "Yaga Sychyovka",
+                    "takeap": "21",
+                    "ap_per_drop": "54.0",
+                    "dropchance": "38.9%"
+                },
+                {
+                    "area": "Anastasia",
+                    "quest": "Yaga Vyazma",
+                    "takeap": "21",
+                    "ap_per_drop": "54.8",
+                    "dropchance": "38.3%"
+                }
+            ]
+        },
+        "Seed of Yggdrasil": {
+            "rank": [
+                {
+                    "area": "Babylonia",
+                    "quest": "Fallen Babylon",
+                    "takeap": "20",
+                    "ap_per_drop": "40.5",
+                    "dropchance": "49.4%"
+                },
+                {
+                    "area": "Salem",
+                    "quest": "Quiet Forest",
+                    "takeap": "20",
+                    "ap_per_drop": "43.5",
+                    "dropchance": "46.0%"
+                },
+                {
+                    "area": "Salem",
+                    "quest": "Refuge",
+                    "takeap": "21",
+                    "ap_per_drop": "44.8",
+                    "dropchance": "46.9%"
+                },
+                {
+                    "area": "Agartha",
+                    "quest": "Riverside Town",
+                    "takeap": "20",
+                    "ap_per_drop": "49.3",
+                    "dropchance": "40.6%"
+                },
+                {
+                    "area": "Shimosa",
+                    "quest": "Paddy Fields",
+                    "takeap": "20",
+                    "ap_per_drop": "50.0",
+                    "dropchance": "40.0%"
+                }
+            ]
+        },
+        "Ghost Lantern": {
+            "rank": [
+                {
+                    "area": "Babylonia",
+                    "quest": "Kutha",
+                    "takeap": "21",
+                    "ap_per_drop": "53.1",
+                    "dropchance": "39.5%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Mausoleum of the Evening Bell",
+                    "takeap": "19",
+                    "ap_per_drop": "58.7",
+                    "dropchance": "32.4%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Stormy Seas",
+                    "takeap": "15",
+                    "ap_per_drop": "67.4",
+                    "dropchance": "22.2%"
+                },
+                {
+                    "area": "Shimosa",
+                    "quest": "Paddy Fields",
+                    "takeap": "20",
+                    "ap_per_drop": "78.2",
+                    "dropchance": "25.6%"
+                },
+                {
+                    "area": "Shimosa",
+                    "quest": "Hermitage",
+                    "takeap": "21",
+                    "ap_per_drop": "80.3",
+                    "dropchance": "26.1%"
+                }
+            ]
+        },
+        "Octuplet Crystal": {
+            "rank": [
+                {
+                    "area": "Agartha",
+                    "quest": "Peach Blossom Spring",
+                    "takeap": "21",
+                    "ap_per_drop": "52.6",
+                    "dropchance": "40.0%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Holy City",
+                    "takeap": "20",
+                    "ap_per_drop": "73.1",
+                    "dropchance": "27.4%"
+                },
+                {
+                    "area": "Shimosa",
+                    "quest": "Hill Behind The Hermitage",
+                    "takeap": "21",
+                    "ap_per_drop": "86.0",
+                    "dropchance": "24.4%"
+                },
+                {
+                    "area": "Götterdämmerung",
+                    "quest": "Heroes' Cellar",
+                    "takeap": "21",
+                    "ap_per_drop": "89.1",
+                    "dropchance": "23.6%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Two-Current Sea",
+                    "takeap": "14",
+                    "ap_per_drop": "126.1",
+                    "dropchance": "11.1%"
+                }
+            ]
+        },
+        "Serpent Jewel": {
+            "rank": [
+                {
+                    "area": "Agartha",
+                    "quest": "Chasm on The Ground",
+                    "takeap": "21",
+                    "ap_per_drop": "55.3",
+                    "dropchance": "38.0%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Bog",
+                    "takeap": "21",
+                    "ap_per_drop": "79.3",
+                    "dropchance": "26.5%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Sunken Rock Seas",
+                    "takeap": "17",
+                    "ap_per_drop": "107.5",
+                    "dropchance": "15.8%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "122.1",
+                    "dropchance": "8.2%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "134.5",
+                    "dropchance": "22.3%"
+                }
+            ]
+        },
+        "Phoenix Feather": {
+            "rank": [
+                {
+                    "area": "Salem",
+                    "quest": "Town Hall",
+                    "takeap": "21",
+                    "ap_per_drop": "58.9",
+                    "dropchance": "35.6%"
+                },
+                {
+                    "area": "Agartha",
+                    "quest": "Subterranean Large River",
+                    "takeap": "21",
+                    "ap_per_drop": "69.7",
+                    "dropchance": "30.1%"
+                },
+                {
+                    "area": "Agartha",
+                    "quest": "Riverside Town",
+                    "takeap": "20",
+                    "ap_per_drop": "96.7",
+                    "dropchance": "20.7%"
+                },
+                {
+                    "area": "Salem",
+                    "quest": "Vacant House",
+                    "takeap": "21",
+                    "ap_per_drop": "101.8",
+                    "dropchance": "20.6%"
+                },
+                {
+                    "area": "Salem",
+                    "quest": "Quay",
+                    "takeap": "21",
+                    "ap_per_drop": "102.2",
+                    "dropchance": "20.6%"
+                }
+            ]
+        },
+        "Eternal Gear": {
+            "rank": [
+                {
+                    "area": "Shinjuku",
+                    "quest": "Barrel Tower",
+                    "takeap": "21",
+                    "ap_per_drop": "45.9",
+                    "dropchance": "45.8%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Chicago",
+                    "takeap": "21",
+                    "ap_per_drop": "51.4",
+                    "dropchance": "40.8%"
+                },
+                {
+                    "area": "SIN",
+                    "quest": "Seeding Point",
+                    "takeap": "20",
+                    "ap_per_drop": "64.1",
+                    "dropchance": "31.2%"
+                },
+                {
+                    "area": "London",
+                    "quest": "Clerkenwell",
+                    "takeap": "18",
+                    "ap_per_drop": "68.6",
+                    "dropchance": "26.2%"
+                },
+                {
+                    "area": "SIN",
+                    "quest": "Shiquan Gorge",
+                    "takeap": "21",
+                    "ap_per_drop": "69.1",
+                    "dropchance": "30.4%"
+                }
+            ]
+        },
+        "Forbidden Page": {
+            "rank": [
+                {
+                    "area": "Shinjuku",
+                    "quest": "Shinjuku 2-chome",
+                    "takeap": "21",
+                    "ap_per_drop": "68.9",
+                    "dropchance": "30.5%"
+                },
+                {
+                    "area": "London",
+                    "quest": "Hyde Park",
+                    "takeap": "20",
+                    "ap_per_drop": "74.1",
+                    "dropchance": "27.0%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "194.8",
+                    "dropchance": "15.4%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "195.7",
+                    "dropchance": "20.4%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "208.3",
+                    "dropchance": "9.6%"
+                }
+            ]
+        },
+        "Homunculus Baby": {
+            "rank": [
+                {
+                    "area": "Salem",
+                    "quest": "Whateley House",
+                    "takeap": "21",
+                    "ap_per_drop": "50.0",
+                    "dropchance": "42.0%"
+                },
+                {
+                    "area": "London",
+                    "quest": "Southwark",
+                    "takeap": "19",
+                    "ap_per_drop": "62.4",
+                    "dropchance": "30.4%"
+                },
+                {
+                    "area": "London",
+                    "quest": "City of London",
+                    "takeap": "15",
+                    "ap_per_drop": "127.1",
+                    "dropchance": "11.8%"
+                },
+                {
+                    "area": "London",
+                    "quest": "Westminster",
+                    "takeap": "16",
+                    "ap_per_drop": "135.4",
+                    "dropchance": "11.8%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "168.5",
+                    "dropchance": "17.8%"
+                }
+            ]
+        },
+        "Meteor Horseshoe": {
+            "rank": [
+                {
+                    "area": "Camelot",
+                    "quest": "Land of the Void",
+                    "takeap": "22",
+                    "ap_per_drop": "49.0",
+                    "dropchance": "44.9%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Caldera Island",
+                    "takeap": "17",
+                    "ap_per_drop": "131.5",
+                    "dropchance": "12.9%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "187.4",
+                    "dropchance": "10.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "195.3",
+                    "dropchance": "20.5%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "195.6",
+                    "dropchance": "10.2%"
+                }
+            ]
+        },
+        "Great Knight Medal": {
+            "rank": [
+                {
+                    "area": "Camelot",
+                    "quest": "Royal Castle",
+                    "takeap": "21",
+                    "ap_per_drop": "56.8",
+                    "dropchance": "37.0%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Main Gate",
+                    "takeap": "20",
+                    "ap_per_drop": "62.4",
+                    "dropchance": "32.1%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Fortress of the Round Table",
+                    "takeap": "19",
+                    "ap_per_drop": "99.0",
+                    "dropchance": "19.2%"
+                }
+            ]
+        },
+        "Shell of Reminiscense": {
+            "rank": [
+                {
+                    "area": "Babylonia",
+                    "quest": "Observatory",
+                    "takeap": "21",
+                    "ap_per_drop": "50.8",
+                    "dropchance": "41.4%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Archipelago (Hidden island)",
+                    "takeap": "16",
+                    "ap_per_drop": "54.9",
+                    "dropchance": "29.2%"
+                },
+                {
+                    "area": "Anastasia",
+                    "quest": "Icicles Grotto",
+                    "takeap": "20",
+                    "ap_per_drop": "77.9",
+                    "dropchance": "25.7%"
+                },
+                {
+                    "area": "Anastasia",
+                    "quest": "Devastated Village",
+                    "takeap": "21",
+                    "ap_per_drop": "83.5",
+                    "dropchance": "25.1%"
+                },
+                {
+                    "area": "Anastasia",
+                    "quest": "Trampled Village",
+                    "takeap": "21",
+                    "ap_per_drop": "85.2",
+                    "dropchance": "24.6%"
+                }
+            ]
+        },
+        "Kotan Magatama": {
+            "rank": [
+                {
+                    "area": "Shimosa",
+                    "quest": "Castle Town",
+                    "takeap": "21",
+                    "ap_per_drop": "52.5",
+                    "dropchance": "40.0%"
+                },
+                {
+                    "area": "Shimosa",
+                    "quest": "Tokejou",
+                    "takeap": "21",
+                    "ap_per_drop": "77.2",
+                    "dropchance": "27.2%"
+                },
+                {
+                    "area": "Shimosa",
+                    "quest": "Hermitage",
+                    "takeap": "21",
+                    "ap_per_drop": "78.6",
+                    "dropchance": "26.7%"
+                },
+                {
+                    "area": "Shimosa",
+                    "quest": "Hamlet",
+                    "takeap": "21",
+                    "ap_per_drop": "82.4",
+                    "dropchance": "25.5%"
+                },
+                {
+                    "area": "Shimosa",
+                    "quest": "Battlefield",
+                    "takeap": "21",
+                    "ap_per_drop": "84.3",
+                    "dropchance": "24.9%"
+                }
+            ]
+        },
+        "Eternal Ice": {
+            "rank": [
+                {
+                    "area": "Anastasia",
+                    "quest": "Yaga Moscow",
+                    "takeap": "21",
+                    "ap_per_drop": "46.3",
+                    "dropchance": "45.4%"
+                },
+                {
+                    "area": "Anastasia",
+                    "quest": "Trampled Village",
+                    "takeap": "21",
+                    "ap_per_drop": "82.8",
+                    "dropchance": "25.4%"
+                },
+                {
+                    "area": "Anastasia",
+                    "quest": "Trampled Village",
+                    "takeap": "21",
+                    "ap_per_drop": "82.8",
+                    "dropchance": "25.4%"
+                },
+                {
+                    "area": "Anastasia",
+                    "quest": "Yaga Demensk",
+                    "takeap": "21",
+                    "ap_per_drop": "82.9",
+                    "dropchance": "25.3%"
+                },
+                {
+                    "area": "Anastasia",
+                    "quest": "Yaga Tula",
+                    "takeap": "21",
+                    "ap_per_drop": "94.3",
+                    "dropchance": "22.3%"
+                }
+            ]
+        },
+        "Giant's Ring": {
+            "rank": [
+                {
+                    "area": "Götterdämmerung",
+                    "quest": "Giants' Flower Patio",
+                    "takeap": "20",
+                    "ap_per_drop": "49.9",
+                    "dropchance": "40.1%"
+                },
+                {
+                    "area": "Götterdämmerung",
+                    "quest": "Knoll of Thin Ice",
+                    "takeap": "20",
+                    "ap_per_drop": "73.8",
+                    "dropchance": "27.1%"
+                },
+                {
+                    "area": "SIN",
+                    "quest": "Neighboring Village",
+                    "takeap": "20",
+                    "ap_per_drop": "77.9",
+                    "dropchance": "25.7%"
+                },
+                {
+                    "area": "Götterdämmerung",
+                    "quest": "Pathway Towards The Peak",
+                    "takeap": "21",
+                    "ap_per_drop": "80.2",
+                    "dropchance": "26.2%"
+                },
+                {
+                    "area": "Götterdämmerung",
+                    "quest": "Northern Boundary",
+                    "takeap": "21",
+                    "ap_per_drop": "81.2",
+                    "dropchance": "25.9%"
+                }
+            ]
+        },
+        "Aurora Steel": {
+            "rank": [
+                {
+                    "area": "Götterdämmerung",
+                    "quest": "Castle of Ice and Snow",
+                    "takeap": "21",
+                    "ap_per_drop": "54.2",
+                    "dropchance": "38.7%"
+                },
+                {
+                    "area": "Götterdämmerung",
+                    "quest": "67th Settlement",
+                    "takeap": "21",
+                    "ap_per_drop": "83.2",
+                    "dropchance": "25.2%"
+                },
+                {
+                    "area": "Götterdämmerung",
+                    "quest": "23rd Settlement",
+                    "takeap": "21",
+                    "ap_per_drop": "83.8",
+                    "dropchance": "25.1%"
+                },
+                {
+                    "area": "Götterdämmerung",
+                    "quest": "Ablazed Mansion",
+                    "takeap": "21",
+                    "ap_per_drop": "85.3",
+                    "dropchance": "24.6%"
+                },
+                {
+                    "area": "Götterdämmerung",
+                    "quest": "Forgotten Temple",
+                    "takeap": "21",
+                    "ap_per_drop": "89.3",
+                    "dropchance": "23.5%"
+                }
+            ]
+        },
+        "Ancient Bell of Tranquility": {
+            "rank": [
+                {
+                    "area": "SIN",
+                    "quest": "Eight Gates Cave",
+                    "takeap": "21",
+                    "ap_per_drop": "53.5",
+                    "dropchance": "39.2%"
+                },
+                {
+                    "area": "SIN",
+                    "quest": "Detention Centre",
+                    "takeap": "21",
+                    "ap_per_drop": "81.8",
+                    "dropchance": "25.7%"
+                },
+                {
+                    "area": "SIN",
+                    "quest": "Dapingyu",
+                    "takeap": "21",
+                    "ap_per_drop": "85.5",
+                    "dropchance": "24.6%"
+                },
+                {
+                    "area": "SIN",
+                    "quest": "Xianyang",
+                    "takeap": "21",
+                    "ap_per_drop": "109.1",
+                    "dropchance": "19.2%"
+                }
+            ]
+        },
+        "Claw of Chaos": {
+            "rank": [
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Des Moines",
+                    "takeap": "18",
+                    "ap_per_drop": "88.4",
+                    "dropchance": "20.4%"
+                },
+                {
+                    "area": "Agartha",
+                    "quest": "Subterranean Moor",
+                    "takeap": "20",
+                    "ap_per_drop": "95.4",
+                    "dropchance": "21.0%"
+                },
+                {
+                    "area": "Anastasia",
+                    "quest": "Yaga Ryazan",
+                    "takeap": "21",
+                    "ap_per_drop": "97.8",
+                    "dropchance": "21.5%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Ur",
+                    "takeap": "21",
+                    "ap_per_drop": "107.3",
+                    "dropchance": "19.6%"
+                },
+                {
+                    "area": "Shinjuku",
+                    "quest": "Shinjuku 4-chome",
+                    "takeap": "21",
+                    "ap_per_drop": "112.7",
+                    "dropchance": "18.6%"
+                }
+            ]
+        },
+        "Heart of a Foreign God": {
+            "rank": [
+                {
+                    "area": "Salem",
+                    "quest": "Carter House",
+                    "takeap": "20",
+                    "ap_per_drop": "163.8",
+                    "dropchance": "12.2%"
+                },
+                {
+                    "area": "Shinjuku",
+                    "quest": "Shinjuku Imperial Garden",
+                    "takeap": "21",
+                    "ap_per_drop": "170.8",
+                    "dropchance": "12.3%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "631.8",
+                    "dropchance": "6.3%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "771.3",
+                    "dropchance": "3.9%"
+                }
+            ]
+        },
+        "Dragon's Reverse Scale": {
+            "rank": [
+                {
+                    "area": "Babylonia",
+                    "quest": "Nippur",
+                    "takeap": "21",
+                    "ap_per_drop": "160.6",
+                    "dropchance": "13.1%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "548.7",
+                    "dropchance": "7.3%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "887.5",
+                    "dropchance": "3.4%"
+                }
+            ]
+        },
+        "Spirit Root": {
+            "rank": [
+                {
+                    "area": "Camelot",
+                    "quest": "Holy City",
+                    "takeap": "20",
+                    "ap_per_drop": "164.0",
+                    "dropchance": "12.2%"
+                },
+                {
+                    "area": "Götterdämmerung",
+                    "quest": "Forgotten Temple",
+                    "takeap": "21",
+                    "ap_per_drop": "199.6",
+                    "dropchance": "10.5%"
+                },
+                {
+                    "area": "Shinjuku",
+                    "quest": "Tower's Top Floor",
+                    "takeap": "21",
+                    "ap_per_drop": "208.0",
+                    "dropchance": "10.1%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Washington",
+                    "takeap": "20",
+                    "ap_per_drop": "259.3",
+                    "dropchance": "7.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "495.4",
+                    "dropchance": "8.1%"
+                }
+            ]
+        },
+        "Warhorse's Young Horn": {
+            "rank": [
+                {
+                    "area": "Agartha",
+                    "quest": "Campsite",
+                    "takeap": "20",
+                    "ap_per_drop": "88.7",
+                    "dropchance": "22.6%"
+                },
+                {
+                    "area": "Anastasia",
+                    "quest": "Anchor Point",
+                    "takeap": "20",
+                    "ap_per_drop": "88.9",
+                    "dropchance": "22.5%"
+                },
+                {
+                    "area": "Anastasia",
+                    "quest": "Rebellion Army's Stronghold",
+                    "takeap": "21",
+                    "ap_per_drop": "96.2",
+                    "dropchance": "21.8%"
+                },
+                {
+                    "area": "Anastasia",
+                    "quest": "Yaga Demensk",
+                    "takeap": "21",
+                    "ap_per_drop": "105.7",
+                    "dropchance": "19.9%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "East Village",
+                    "takeap": "19",
+                    "ap_per_drop": "110.3",
+                    "dropchance": "17.2%"
+                }
+            ]
+        },
+        "Tearstone of Blood": {
+            "rank": [
+                {
+                    "area": "Shinjuku",
+                    "quest": "Shinjuku 2-chome",
+                    "takeap": "21",
+                    "ap_per_drop": "113.6",
+                    "dropchance": "18.5%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Alexandria",
+                    "takeap": "18",
+                    "ap_per_drop": "155.6",
+                    "dropchance": "11.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "303.4",
+                    "dropchance": "13.2%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "509.3",
+                    "dropchance": "5.9%"
+                }
+            ]
+        },
+        "Black Beast Grease": {
+            "rank": [
+                {
+                    "area": "Agartha",
+                    "quest": "Northern Palisade",
+                    "takeap": "21",
+                    "ap_per_drop": "97.6",
+                    "dropchance": "21.5%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Northern Hill",
+                    "takeap": "20",
+                    "ap_per_drop": "111.9",
+                    "dropchance": "17.9%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Lubbock",
+                    "takeap": "18",
+                    "ap_per_drop": "141.8",
+                    "dropchance": "12.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "326.6",
+                    "dropchance": "12.2%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "501.8",
+                    "dropchance": "6.0%"
+                }
+            ]
+        },
+        "Lamp of Evil-Sealing": {
+            "rank": [
+                {
+                    "area": "Salem",
+                    "quest": "Jail",
+                    "takeap": "21",
+                    "ap_per_drop": "108.3",
+                    "dropchance": "19.4%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Hidden Village",
+                    "takeap": "21",
+                    "ap_per_drop": "134.2",
+                    "dropchance": "15.6%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Dune of Dawn",
+                    "takeap": "19",
+                    "ap_per_drop": "167.7",
+                    "dropchance": "11.3%"
+                }
+            ]
+        },
+        "Scarab of Wisdom": {
+            "rank": [
+                {
+                    "area": "Camelot",
+                    "quest": "Great Temple",
+                    "takeap": "22",
+                    "ap_per_drop": "186.3",
+                    "dropchance": "11.8%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Sandstorm Desert",
+                    "takeap": "19",
+                    "ap_per_drop": "232.2",
+                    "dropchance": "8.2%"
+                }
+            ]
+        },
+        "Primordial Lanugo": {
+            "rank": [
+                {
+                    "area": "Babylonia",
+                    "quest": "Blood Fort",
+                    "takeap": "21",
+                    "ap_per_drop": "111.5",
+                    "dropchance": "18.8%"
+                },
+                {
+                    "area": "Götterdämmerung",
+                    "quest": "67th Settlement",
+                    "takeap": "21",
+                    "ap_per_drop": "116.4",
+                    "dropchance": "18.0%"
+                },
+                {
+                    "area": "Götterdämmerung",
+                    "quest": "Pathway Towards The Peak",
+                    "takeap": "21",
+                    "ap_per_drop": "117.9",
+                    "dropchance": "17.8%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Black Cedar Forest",
+                    "takeap": "20",
+                    "ap_per_drop": "162.9",
+                    "dropchance": "12.3%"
+                },
+                {
+                    "area": "Götterdämmerung",
+                    "quest": "Landing Point",
+                    "takeap": "20",
+                    "ap_per_drop": "180.0",
+                    "dropchance": "11.1%"
+                }
+            ]
+        },
+        "Cursed Beast Gallstone": {
+            "rank": [
+                {
+                    "area": "Shimosa",
+                    "quest": "Arakawa Prairie",
+                    "takeap": "21",
+                    "ap_per_drop": "161.1",
+                    "dropchance": "13.0%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Mt. Ebih",
+                    "takeap": "21",
+                    "ap_per_drop": "169.6",
+                    "dropchance": "12.4%"
+                }
+            ]
+        },
+        "Bizarre Godly Wine": {
+            "rank": [
+                {
+                    "area": "Agartha",
+                    "quest": "Palace of Dragon King",
+                    "takeap": "21",
+                    "ap_per_drop": "157.9",
+                    "dropchance": "13.3%"
+                },
+                {
+                    "area": "Anastasia",
+                    "quest": "Great Valley Stronghold",
+                    "takeap": "21",
+                    "ap_per_drop": "193.2",
+                    "dropchance": "10.9%"
+                },
+                {
+                    "area": "SIN",
+                    "quest": "Icy Cold Grotto",
+                    "takeap": "20",
+                    "ap_per_drop": "207.8",
+                    "dropchance": "9.6%"
+                },
+                {
+                    "area": "Shimosa",
+                    "quest": "Tokejou",
+                    "takeap": "21",
+                    "ap_per_drop": "210.0",
+                    "dropchance": "10.0%"
+                }
+            ]
+        },
+        "Dawnlight Reactor Core": {
+            "rank": [
+                {
+                    "area": "SIN",
+                    "quest": "Detention Centre",
+                    "takeap": "21",
+                    "ap_per_drop": "104.0",
+                    "dropchance": "20.2%"
+                },
+                {
+                    "area": "SIN",
+                    "quest": "Shiquan Gorge",
+                    "takeap": "21",
+                    "ap_per_drop": "104.5",
+                    "dropchance": "20.1%"
+                },
+                {
+                    "area": "SIN",
+                    "quest": "Shenyang Knoll",
+                    "takeap": "21",
+                    "ap_per_drop": "124.4",
+                    "dropchance": "16.9%"
+                },
+                {
+                    "area": "SIN",
+                    "quest": "Jing Yangyuan",
+                    "takeap": "21",
+                    "ap_per_drop": "124.5",
+                    "dropchance": "16.9%"
+                },
+                {
+                    "area": "SIN",
+                    "quest": "Xianyang",
+                    "takeap": "21",
+                    "ap_per_drop": "137.5",
+                    "dropchance": "15.3%"
+                }
+            ]
+        },
+        "Secret Gem of Saber": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "141.7",
+                    "dropchance": "28.2%"
+                },
+                {
+                    "area": "Shinjuku",
+                    "quest": "Tower's Top Floor",
+                    "takeap": "21",
+                    "ap_per_drop": "517.3",
+                    "dropchance": "4.1%"
+                },
+                {
+                    "area": "Götterdämmerung",
+                    "quest": "Forgotten Temple",
+                    "takeap": "21",
+                    "ap_per_drop": "547.8",
+                    "dropchance": "3.8%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Washington",
+                    "takeap": "20",
+                    "ap_per_drop": "568.3",
+                    "dropchance": "3.5%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Holy City",
+                    "takeap": "20",
+                    "ap_per_drop": "571.1",
+                    "dropchance": "3.5%"
+                }
+            ]
+        },
+        "Secret Gem of Archer": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "132.8",
+                    "dropchance": "30.1%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "198.6",
+                    "dropchance": "15.1%"
+                },
+                {
+                    "area": "Agartha",
+                    "quest": "Palace of Dragon King",
+                    "takeap": "21",
+                    "ap_per_drop": "486.5",
+                    "dropchance": "4.3%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Chicago",
+                    "takeap": "21",
+                    "ap_per_drop": "520.4",
+                    "dropchance": "4.0%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Land of the Void",
+                    "takeap": "22",
+                    "ap_per_drop": "724.6",
+                    "dropchance": "3.0%"
+                }
+            ]
+        },
+        "Secret Gem of Lancer": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "145.0",
+                    "dropchance": "27.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "175.2",
+                    "dropchance": "17.1%"
+                },
+                {
+                    "area": "Shimosa",
+                    "quest": "Tokejou",
+                    "takeap": "21",
+                    "ap_per_drop": "636.4",
+                    "dropchance": "3.3%"
+                },
+                {
+                    "area": "Agartha",
+                    "quest": "Subterranean Large River",
+                    "takeap": "21",
+                    "ap_per_drop": "653.6",
+                    "dropchance": "3.2%"
+                }
+            ]
+        },
+        "Secret Gem of Rider": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "97.8",
+                    "dropchance": "40.9%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "116.8",
+                    "dropchance": "25.7%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Land of the Void",
+                    "takeap": "22",
+                    "ap_per_drop": "330.5",
+                    "dropchance": "6.7%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Nippur",
+                    "takeap": "21",
+                    "ap_per_drop": "452.8",
+                    "dropchance": "4.6%"
+                }
+            ]
+        },
+        "Secret Gem of Caster": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "52.1",
+                    "dropchance": "76.8%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "133.4",
+                    "dropchance": "22.5%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Great Temple",
+                    "takeap": "22",
+                    "ap_per_drop": "342.7",
+                    "dropchance": "6.4%"
+                },
+                {
+                    "area": "Salem",
+                    "quest": "Carter House",
+                    "takeap": "20",
+                    "ap_per_drop": "435.6",
+                    "dropchance": "4.6%"
+                },
+                {
+                    "area": "Shinjuku",
+                    "quest": "Shinjuku Imperial Garden",
+                    "takeap": "21",
+                    "ap_per_drop": "470.4",
+                    "dropchance": "4.5%"
+                }
+            ]
+        },
+        "Secret Gem of Assassin": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "156.7",
+                    "dropchance": "25.5%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "206.4",
+                    "dropchance": "14.5%"
+                },
+                {
+                    "area": "Anastasia",
+                    "quest": "Great Valley Stronghold",
+                    "takeap": "21",
+                    "ap_per_drop": "411.8",
+                    "dropchance": "5.1%"
+                },
+                {
+                    "area": "London",
+                    "quest": "Clerkenwell",
+                    "takeap": "18",
+                    "ap_per_drop": "491.1",
+                    "dropchance": "3.7%"
+                },
+                {
+                    "area": "SIN",
+                    "quest": "Icy Cold Grotto",
+                    "takeap": "20",
+                    "ap_per_drop": "1870.0",
+                    "dropchance": "1.1%"
+                }
+            ]
+        },
+        "Secret Gem of Berserker": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "170.5",
+                    "dropchance": "23.5%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "213.2",
+                    "dropchance": "14.1%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Holy City",
+                    "takeap": "20",
+                    "ap_per_drop": "222.4",
+                    "dropchance": "9.0%"
+                },
+                {
+                    "area": "Götterdämmerung",
+                    "quest": "Heroes' Cellar",
+                    "takeap": "21",
+                    "ap_per_drop": "365.6",
+                    "dropchance": "5.7%"
+                },
+                {
+                    "area": "Agartha",
+                    "quest": "Subterranean Moor",
+                    "takeap": "20",
+                    "ap_per_drop": "381.3",
+                    "dropchance": "5.2%"
+                }
+            ]
+        },
+        "Magic Gem of Saber": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "22.3",
+                    "dropchance": "134.3%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "24.3",
+                    "dropchance": "82.5%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "34.2",
+                    "dropchance": "117.1%"
+                },
+                {
+                    "area": "Shimosa",
+                    "quest": "Castle Town",
+                    "takeap": "21",
+                    "ap_per_drop": "53.3",
+                    "dropchance": "39.4%"
+                },
+                {
+                    "area": "Shimosa",
+                    "quest": "Arakawa Prairie",
+                    "takeap": "21",
+                    "ap_per_drop": "78.5",
+                    "dropchance": "26.8%"
+                }
+            ]
+        },
+        "Magic Gem of Archer": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "19.2",
+                    "dropchance": "156.1%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "33.2",
+                    "dropchance": "120.5%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "57.2",
+                    "dropchance": "34.9%"
+                },
+                {
+                    "area": "Shinjuku",
+                    "quest": "Shinjuku Station",
+                    "takeap": "21",
+                    "ap_per_drop": "85.5",
+                    "dropchance": "24.6%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Atlas Institute",
+                    "takeap": "20",
+                    "ap_per_drop": "109.3",
+                    "dropchance": "18.3%"
+                }
+            ]
+        },
+        "Magic Gem of Lancer": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "20.3",
+                    "dropchance": "147.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "30.5",
+                    "dropchance": "65.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "33.3",
+                    "dropchance": "120.0%"
+                },
+                {
+                    "area": "Salem",
+                    "quest": "Whateley House",
+                    "takeap": "21",
+                    "ap_per_drop": "107.9",
+                    "dropchance": "19.5%"
+                },
+                {
+                    "area": "Agartha",
+                    "quest": "Campsite",
+                    "takeap": "20",
+                    "ap_per_drop": "115.6",
+                    "dropchance": "17.3%"
+                }
+            ]
+        },
+        "Magic Gem of Rider": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "21.4",
+                    "dropchance": "93.3%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "25.2",
+                    "dropchance": "119.2%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "42.7",
+                    "dropchance": "93.7%"
+                },
+                {
+                    "area": "Götterdämmerung",
+                    "quest": "Castle of Ice and Snow",
+                    "takeap": "21",
+                    "ap_per_drop": "45.0",
+                    "dropchance": "46.7%"
+                },
+                {
+                    "area": "Götterdämmerung",
+                    "quest": "Forgotten Temple",
+                    "takeap": "21",
+                    "ap_per_drop": "57.5",
+                    "dropchance": "36.5%"
+                }
+            ]
+        },
+        "Magic Gem of Caster": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "17.4",
+                    "dropchance": "172.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "25.3",
+                    "dropchance": "79.1%"
+                },
+                {
+                    "area": "Agartha",
+                    "quest": "Chasm on The Ground",
+                    "takeap": "21",
+                    "ap_per_drop": "42.2",
+                    "dropchance": "49.8%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Dune of Dawn",
+                    "takeap": "19",
+                    "ap_per_drop": "42.5",
+                    "dropchance": "44.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "44.3",
+                    "dropchance": "90.3%"
+                }
+            ]
+        },
+        "Magic Gem of Assassin": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "18.3",
+                    "dropchance": "109.1%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "20.4",
+                    "dropchance": "147.0%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "33.7",
+                    "dropchance": "118.6%"
+                },
+                {
+                    "area": "Anastasia",
+                    "quest": "Yaga Moscow",
+                    "takeap": "21",
+                    "ap_per_drop": "46.4",
+                    "dropchance": "45.3%"
+                },
+                {
+                    "area": "Shinjuku",
+                    "quest": "Barrel Tower",
+                    "takeap": "21",
+                    "ap_per_drop": "47.1",
+                    "dropchance": "44.6%"
+                }
+            ]
+        },
+        "Magic Gem of Berserker": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "22.6",
+                    "dropchance": "132.8%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "31.4",
+                    "dropchance": "63.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "34.5",
+                    "dropchance": "116.1%"
+                },
+                {
+                    "area": "Götterdämmerung",
+                    "quest": "Giants' Flower Patio",
+                    "takeap": "20",
+                    "ap_per_drop": "44.9",
+                    "dropchance": "44.6%"
+                },
+                {
+                    "area": "Götterdämmerung",
+                    "quest": "Northern Boundary",
+                    "takeap": "21",
+                    "ap_per_drop": "49.9",
+                    "dropchance": "42.1%"
+                }
+            ]
+        },
+        "Gem of Saber": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "7.9",
+                    "dropchance": "125.8%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-A",
+                    "takeap": "3",
+                    "ap_per_drop": "17.6",
+                    "dropchance": "17.1%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "18.8",
+                    "dropchance": "106.6%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-C",
+                    "takeap": "4",
+                    "ap_per_drop": "20.1",
+                    "dropchance": "19.9%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-D",
+                    "takeap": "5",
+                    "ap_per_drop": "21.4",
+                    "dropchance": "23.4%"
+                }
+            ]
+        },
+        "Gem of Archer": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "7.4",
+                    "dropchance": "135.2%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "14.6",
+                    "dropchance": "137.2%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-D",
+                    "takeap": "5",
+                    "ap_per_drop": "24.8",
+                    "dropchance": "20.2%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-F",
+                    "takeap": "5",
+                    "ap_per_drop": "35.7",
+                    "dropchance": "16.8%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Black Hills",
+                    "takeap": "17",
+                    "ap_per_drop": "36.4",
+                    "dropchance": "46.7%"
+                }
+            ]
+        },
+        "Gem of Lancer": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "8.6",
+                    "dropchance": "116.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "17.2",
+                    "dropchance": "116.2%"
+                },
+                {
+                    "area": "Orleans",
+                    "quest": "Bordeaux",
+                    "takeap": "7",
+                    "ap_per_drop": "23.5",
+                    "dropchance": "29.7%"
+                },
+                {
+                    "area": "London",
+                    "quest": "City of London",
+                    "takeap": "15",
+                    "ap_per_drop": "24.8",
+                    "dropchance": "60.4%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-C",
+                    "takeap": "4",
+                    "ap_per_drop": "26.3",
+                    "dropchance": "15.2%"
+                }
+            ]
+        },
+        "Gem of Rider": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "8.3",
+                    "dropchance": "119.8%"
+                },
+                {
+                    "area": "Orleans",
+                    "quest": "Thiers",
+                    "takeap": "7",
+                    "ap_per_drop": "16.4",
+                    "dropchance": "42.6%"
+                },
+                {
+                    "area": "Orleans",
+                    "quest": "La Charite",
+                    "takeap": "7",
+                    "ap_per_drop": "19.8",
+                    "dropchance": "35.3%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "21.5",
+                    "dropchance": "92.8%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Island of Wyverns",
+                    "takeap": "14",
+                    "ap_per_drop": "32.9",
+                    "dropchance": "42.6%"
+                }
+            ]
+        },
+        "Gem of Caster": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "8.0",
+                    "dropchance": "124.5%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "20.7",
+                    "dropchance": "96.5%"
+                },
+                {
+                    "area": "Shinjuku",
+                    "quest": "Shinjuku Imperial Garden",
+                    "takeap": "21",
+                    "ap_per_drop": "56.0",
+                    "dropchance": "37.5%"
+                },
+                {
+                    "area": "Shinjuku",
+                    "quest": "Yoyogi 2-chome",
+                    "takeap": "20",
+                    "ap_per_drop": "58.5",
+                    "dropchance": "34.2%"
+                },
+                {
+                    "area": "Shinjuku",
+                    "quest": "Shinjuku 4-chome",
+                    "takeap": "21",
+                    "ap_per_drop": "86.1",
+                    "dropchance": "24.4%"
+                }
+            ]
+        },
+        "Gem of Assassin": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "7.6",
+                    "dropchance": "130.9%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "24.3",
+                    "dropchance": "82.4%"
+                },
+                {
+                    "area": "London",
+                    "quest": "Old Street",
+                    "takeap": "15",
+                    "ap_per_drop": "25.3",
+                    "dropchance": "59.3%"
+                },
+                {
+                    "area": "Septem",
+                    "quest": "Mt. Etna",
+                    "takeap": "9",
+                    "ap_per_drop": "28.8",
+                    "dropchance": "31.3%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Stormy Seas",
+                    "takeap": "15",
+                    "ap_per_drop": "29.3",
+                    "dropchance": "51.1%"
+                }
+            ]
+        },
+        "Gem of Berserker": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "7.5",
+                    "dropchance": "132.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "16.1",
+                    "dropchance": "124.2%"
+                },
+                {
+                    "area": "Salem",
+                    "quest": "Gallow Hill",
+                    "takeap": "21",
+                    "ap_per_drop": "57.7",
+                    "dropchance": "36.4%"
+                },
+                {
+                    "area": "Septem",
+                    "quest": "Gaul",
+                    "takeap": "9",
+                    "ap_per_drop": "58.9",
+                    "dropchance": "15.3%"
+                },
+                {
+                    "area": "Agartha",
+                    "quest": "Peach Blossom Spring",
+                    "takeap": "21",
+                    "ap_per_drop": "69.8",
+                    "dropchance": "30.1%"
+                }
+            ]
+        },
+        "Saber Monument": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "77.0",
+                    "dropchance": "52.0%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "86.8",
+                    "dropchance": "34.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "235.5",
+                    "dropchance": "8.5%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "438.0",
+                    "dropchance": "2.3%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Royal Castle",
+                    "takeap": "21",
+                    "ap_per_drop": "446.2",
+                    "dropchance": "4.7%"
+                }
+            ]
+        },
+        "Archer Monument": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "69.0",
+                    "dropchance": "57.9%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "85.1",
+                    "dropchance": "35.2%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "290.8",
+                    "dropchance": "6.9%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Montgomery",
+                    "takeap": "18",
+                    "ap_per_drop": "381.2",
+                    "dropchance": "4.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "556.4",
+                    "dropchance": "1.8%"
+                }
+            ]
+        },
+        "Lancer Monument": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "72.1",
+                    "dropchance": "55.5%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "85.3",
+                    "dropchance": "35.2%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Riverton",
+                    "takeap": "17",
+                    "ap_per_drop": "234.6",
+                    "dropchance": "7.2%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "251.2",
+                    "dropchance": "8.0%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Denver",
+                    "takeap": "17",
+                    "ap_per_drop": "328.7",
+                    "dropchance": "5.2%"
+                }
+            ]
+        },
+        "Rider Monument": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "68.3",
+                    "dropchance": "58.5%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "77.4",
+                    "dropchance": "40.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "288.3",
+                    "dropchance": "6.9%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "528.0",
+                    "dropchance": "1.9%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Pirate Island",
+                    "takeap": "13",
+                    "ap_per_drop": "603.6",
+                    "dropchance": "2.2%"
+                }
+            ]
+        },
+        "Caster Monument": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "70.5",
+                    "dropchance": "56.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "92.9",
+                    "dropchance": "32.3%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "279.7",
+                    "dropchance": "7.2%"
+                },
+                {
+                    "area": "London",
+                    "quest": "Westminster",
+                    "takeap": "16",
+                    "ap_per_drop": "293.3",
+                    "dropchance": "5.5%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "510.0",
+                    "dropchance": "2.0%"
+                }
+            ]
+        },
+        "Assassin Monument": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "69.0",
+                    "dropchance": "57.9%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "79.7",
+                    "dropchance": "37.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "238.4",
+                    "dropchance": "8.4%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "403.8",
+                    "dropchance": "2.5%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "West Village Ruins",
+                    "takeap": "20",
+                    "ap_per_drop": "495.4",
+                    "dropchance": "4.0%"
+                }
+            ]
+        },
+        "Berserker Monument": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "71.0",
+                    "dropchance": "56.3%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "73.7",
+                    "dropchance": "40.7%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Charlotte",
+                    "takeap": "20",
+                    "ap_per_drop": "169.8",
+                    "dropchance": "11.8%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "257.7",
+                    "dropchance": "7.8%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "654.2",
+                    "dropchance": "1.5%"
+                }
+            ]
+        },
+        "Saber Piece": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "28.9",
+                    "dropchance": "69.3%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "30.1",
+                    "dropchance": "99.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "45.8",
+                    "dropchance": "21.8%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "53.8",
+                    "dropchance": "74.4%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Mobile Coordinate No.0",
+                    "takeap": "7",
+                    "ap_per_drop": "92.5",
+                    "dropchance": "7.6%"
+                }
+            ]
+        },
+        "Archer Piece": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "28.9",
+                    "dropchance": "103.9%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "29.7",
+                    "dropchance": "67.3%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "44.9",
+                    "dropchance": "22.3%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "49.7",
+                    "dropchance": "80.4%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Montgomery",
+                    "takeap": "18",
+                    "ap_per_drop": "175.0",
+                    "dropchance": "10.3%"
+                }
+            ]
+        },
+        "Lancer Piece": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "28.2",
+                    "dropchance": "71.0%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "30.5",
+                    "dropchance": "98.5%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "42.7",
+                    "dropchance": "23.4%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "51.8",
+                    "dropchance": "77.2%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Riverton",
+                    "takeap": "17",
+                    "ap_per_drop": "82.3",
+                    "dropchance": "20.7%"
+                }
+            ]
+        },
+        "Rider Piece": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "28.7",
+                    "dropchance": "69.8%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "29.4",
+                    "dropchance": "102.8%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "45.3",
+                    "dropchance": "22.1%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "51.4",
+                    "dropchance": "77.8%"
+                },
+                {
+                    "area": "Orleans",
+                    "quest": "Jura",
+                    "takeap": "7",
+                    "ap_per_drop": "54.3",
+                    "dropchance": "12.9%"
+                }
+            ]
+        },
+        "Caster Piece": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "24.1",
+                    "dropchance": "82.9%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "30.1",
+                    "dropchance": "33.3%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "31.1",
+                    "dropchance": "96.4%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "49.7",
+                    "dropchance": "80.4%"
+                },
+                {
+                    "area": "Orleans",
+                    "quest": "Orleans",
+                    "takeap": "8",
+                    "ap_per_drop": "75.0",
+                    "dropchance": "10.7%"
+                }
+            ]
+        },
+        "Assassin Piece": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "28.9",
+                    "dropchance": "69.2%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "29.3",
+                    "dropchance": "102.4%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "35.9",
+                    "dropchance": "27.9%"
+                },
+                {
+                    "area": "Orleans",
+                    "quest": "Lyon",
+                    "takeap": "7",
+                    "ap_per_drop": "49.3",
+                    "dropchance": "14.2%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "49.6",
+                    "dropchance": "80.7%"
+                }
+            ]
+        },
+        "Berserker Piece": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "27.3",
+                    "dropchance": "73.3%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "29.2",
+                    "dropchance": "102.8%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "47.3",
+                    "dropchance": "84.5%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "53.4",
+                    "dropchance": "18.7%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Charlotte",
+                    "takeap": "20",
+                    "ap_per_drop": "69.5",
+                    "dropchance": "28.8%"
+                }
+            ]
+        }
+    },
+    "kr": {
+        "Proof of Hero": {
+            "rank": [
+                {
+                    "area": "Okeanos",
+                    "quest": "Pirate Ship",
+                    "takeap": "12",
+                    "ap_per_drop": "21.4",
+                    "dropchance": "56.2%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Dallas",
+                    "takeap": "17",
+                    "ap_per_drop": "21.6",
+                    "dropchance": "78.6%"
+                },
+                {
+                    "area": "Septem",
+                    "quest": "Mediolanum",
+                    "takeap": "9",
+                    "ap_per_drop": "23.3",
+                    "dropchance": "38.7%"
+                },
+                {
+                    "area": "Septem",
+                    "quest": "Florence",
+                    "takeap": "9",
+                    "ap_per_drop": "23.8",
+                    "dropchance": "37.8%"
+                },
+                {
+                    "area": "Orleans",
+                    "quest": "Domremy",
+                    "takeap": "7",
+                    "ap_per_drop": "26.6",
+                    "dropchance": "26.3%"
+                }
+            ]
+        },
+        "Evil Bone": {
+            "rank": [
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-C",
+                    "takeap": "4",
+                    "ap_per_drop": "20.6",
+                    "dropchance": "19.5%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-G",
+                    "takeap": "15",
+                    "ap_per_drop": "24.1",
+                    "dropchance": "62.3%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-F",
+                    "takeap": "5",
+                    "ap_per_drop": "24.7",
+                    "dropchance": "20.3%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-B",
+                    "takeap": "4",
+                    "ap_per_drop": "26.5",
+                    "dropchance": "15.1%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-D",
+                    "takeap": "5",
+                    "ap_per_drop": "27.8",
+                    "dropchance": "18.0%"
+                }
+            ]
+        },
+        "Dragon Fang": {
+            "rank": [
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Deming",
+                    "takeap": "17",
+                    "ap_per_drop": "25.0",
+                    "dropchance": "68.0%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Island of Wyverns",
+                    "takeap": "14",
+                    "ap_per_drop": "27.6",
+                    "dropchance": "50.7%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Eridu",
+                    "takeap": "21",
+                    "ap_per_drop": "30.8",
+                    "dropchance": "68.3%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Mapped Island",
+                    "takeap": "13",
+                    "ap_per_drop": "39.9",
+                    "dropchance": "32.6%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "East Village",
+                    "takeap": "19",
+                    "ap_per_drop": "48.2",
+                    "dropchance": "39.4%"
+                }
+            ]
+        },
+        "Void's Dust": {
+            "rank": [
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Charlotte",
+                    "takeap": "20",
+                    "ap_per_drop": "32.1",
+                    "dropchance": "62.2%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "West Village Ruins",
+                    "takeap": "20",
+                    "ap_per_drop": "36.8",
+                    "dropchance": "54.3%"
+                },
+                {
+                    "area": "Septem",
+                    "quest": "Massilia",
+                    "takeap": "9",
+                    "ap_per_drop": "48.8",
+                    "dropchance": "18.5%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Riverton",
+                    "takeap": "17",
+                    "ap_per_drop": "53.6",
+                    "dropchance": "31.7%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-F",
+                    "takeap": "5",
+                    "ap_per_drop": "54.6",
+                    "dropchance": "9.2%"
+                }
+            ]
+        },
+        "Fool's Chain": {
+            "rank": [
+                {
+                    "area": "Camelot",
+                    "quest": "Wastelands of Death",
+                    "takeap": "19",
+                    "ap_per_drop": "28.9",
+                    "dropchance": "65.8%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Hidden Village",
+                    "takeap": "21",
+                    "ap_per_drop": "69.5",
+                    "dropchance": "30.2%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Great Temple",
+                    "takeap": "22",
+                    "ap_per_drop": "77.9",
+                    "dropchance": "28.2%"
+                }
+            ]
+        },
+        "Deadly Poisonous Needle": {
+            "rank": [
+                {
+                    "area": "Babylonia",
+                    "quest": "Field of Reeds",
+                    "takeap": "21",
+                    "ap_per_drop": "31.8",
+                    "dropchance": "66.1%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Plateau",
+                    "takeap": "20",
+                    "ap_per_drop": "36.7",
+                    "dropchance": "54.5%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Northern Wall",
+                    "takeap": "21",
+                    "ap_per_drop": "51.1",
+                    "dropchance": "41.1%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Bog",
+                    "takeap": "21",
+                    "ap_per_drop": "115.5",
+                    "dropchance": "18.2%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Nippur",
+                    "takeap": "21",
+                    "ap_per_drop": "147.0",
+                    "dropchance": "14.3%"
+                }
+            ]
+        },
+        "Magic Cerebrospinal Fluid": {
+            "rank": []
+        },
+        "Night-Weeping Iron Stake": {
+            "rank": []
+        },
+        "Induced Oscillation Gunpowder": {
+            "rank": []
+        },
+        "Seed of Yggdrasil": {
+            "rank": [
+                {
+                    "area": "Babylonia",
+                    "quest": "Fallen Babylon",
+                    "takeap": "20",
+                    "ap_per_drop": "49.0",
+                    "dropchance": "40.8%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Bountiful Sea",
+                    "takeap": "18",
+                    "ap_per_drop": "56.2",
+                    "dropchance": "32.0%"
+                },
+                {
+                    "area": "Orleans",
+                    "quest": "Bordeaux",
+                    "takeap": "7",
+                    "ap_per_drop": "60.3",
+                    "dropchance": "11.6%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Northern Hill",
+                    "takeap": "20",
+                    "ap_per_drop": "66.7",
+                    "dropchance": "30.0%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Black Cedar Forest",
+                    "takeap": "20",
+                    "ap_per_drop": "67.3",
+                    "dropchance": "29.7%"
+                }
+            ]
+        },
+        "Ghost Lantern": {
+            "rank": [
+                {
+                    "area": "Camelot",
+                    "quest": "Mausoleum of the Evening Bell",
+                    "takeap": "19",
+                    "ap_per_drop": "57.6",
+                    "dropchance": "33.0%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Kutha",
+                    "takeap": "21",
+                    "ap_per_drop": "62.0",
+                    "dropchance": "33.9%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Stormy Seas",
+                    "takeap": "15",
+                    "ap_per_drop": "80.4",
+                    "dropchance": "18.6%"
+                },
+                {
+                    "area": "Septem",
+                    "quest": "Mt. Etna",
+                    "takeap": "9",
+                    "ap_per_drop": "99.5",
+                    "dropchance": "9.0%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "110.8",
+                    "dropchance": "27.1%"
+                }
+            ]
+        },
+        "Octuplet Crystal": {
+            "rank": [
+                {
+                    "area": "Camelot",
+                    "quest": "Holy City",
+                    "takeap": "20",
+                    "ap_per_drop": "70.8",
+                    "dropchance": "28.3%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Two-Current Sea",
+                    "takeap": "14",
+                    "ap_per_drop": "89.1",
+                    "dropchance": "15.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "148.8",
+                    "dropchance": "13.4%"
+                },
+                {
+                    "area": "Septem",
+                    "quest": "Gaul",
+                    "takeap": "9",
+                    "ap_per_drop": "206.8",
+                    "dropchance": "4.4%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "212.7",
+                    "dropchance": "18.8%"
+                }
+            ]
+        },
+        "Serpent Jewel": {
+            "rank": [
+                {
+                    "area": "Babylonia",
+                    "quest": "Bog",
+                    "takeap": "21",
+                    "ap_per_drop": "86.6",
+                    "dropchance": "24.2%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Sunken Rock Seas",
+                    "takeap": "17",
+                    "ap_per_drop": "93.7",
+                    "dropchance": "18.1%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Dune of Dawn",
+                    "takeap": "19",
+                    "ap_per_drop": "121.6",
+                    "dropchance": "15.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "127.4",
+                    "dropchance": "23.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "152.0",
+                    "dropchance": "13.2%"
+                }
+            ]
+        },
+        "Phoenix Feather": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "145.2",
+                    "dropchance": "20.7%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Bountiful Sea",
+                    "takeap": "18",
+                    "ap_per_drop": "181.1",
+                    "dropchance": "9.9%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "218.1",
+                    "dropchance": "18.3%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "289.8",
+                    "dropchance": "13.8%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "383.6",
+                    "dropchance": "10.4%"
+                }
+            ]
+        },
+        "Eternal Gear": {
+            "rank": [
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Chicago",
+                    "takeap": "21",
+                    "ap_per_drop": "48.2",
+                    "dropchance": "43.5%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Black Hills",
+                    "takeap": "17",
+                    "ap_per_drop": "70.6",
+                    "dropchance": "24.1%"
+                },
+                {
+                    "area": "London",
+                    "quest": "Clerkenwell",
+                    "takeap": "18",
+                    "ap_per_drop": "74.0",
+                    "dropchance": "24.3%"
+                },
+                {
+                    "area": "London",
+                    "quest": "Old Street",
+                    "takeap": "15",
+                    "ap_per_drop": "80.5",
+                    "dropchance": "18.6%"
+                },
+                {
+                    "area": "London",
+                    "quest": "White Chapel",
+                    "takeap": "15",
+                    "ap_per_drop": "132.5",
+                    "dropchance": "11.3%"
+                }
+            ]
+        },
+        "Forbidden Page": {
+            "rank": [
+                {
+                    "area": "London",
+                    "quest": "Hyde Park",
+                    "takeap": "20",
+                    "ap_per_drop": "79.9",
+                    "dropchance": "25.0%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "175.9",
+                    "dropchance": "17.1%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Atlas Institute",
+                    "takeap": "20",
+                    "ap_per_drop": "185.0",
+                    "dropchance": "10.8%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "207.3",
+                    "dropchance": "9.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "213.2",
+                    "dropchance": "18.8%"
+                }
+            ]
+        },
+        "Homunculus Baby": {
+            "rank": [
+                {
+                    "area": "London",
+                    "quest": "Southwark",
+                    "takeap": "19",
+                    "ap_per_drop": "54.3",
+                    "dropchance": "35.0%"
+                },
+                {
+                    "area": "London",
+                    "quest": "Westminster",
+                    "takeap": "16",
+                    "ap_per_drop": "96.0",
+                    "dropchance": "16.7%"
+                },
+                {
+                    "area": "London",
+                    "quest": "City of London",
+                    "takeap": "15",
+                    "ap_per_drop": "105.0",
+                    "dropchance": "14.3%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "144.4",
+                    "dropchance": "13.8%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "167.0",
+                    "dropchance": "24.0%"
+                }
+            ]
+        },
+        "Meteor Horseshoe": {
+            "rank": [
+                {
+                    "area": "Camelot",
+                    "quest": "Land of the Void",
+                    "takeap": "22",
+                    "ap_per_drop": "48.2",
+                    "dropchance": "45.7%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Caldera Island",
+                    "takeap": "17",
+                    "ap_per_drop": "146.4",
+                    "dropchance": "11.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "149.0",
+                    "dropchance": "6.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "156.9",
+                    "dropchance": "12.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "157.5",
+                    "dropchance": "12.7%"
+                }
+            ]
+        },
+        "Great Knight Medal": {
+            "rank": [
+                {
+                    "area": "Camelot",
+                    "quest": "Main Gate",
+                    "takeap": "20",
+                    "ap_per_drop": "63.1",
+                    "dropchance": "31.7%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Royal Castle",
+                    "takeap": "21",
+                    "ap_per_drop": "64.1",
+                    "dropchance": "32.7%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Fortress of the Round Table",
+                    "takeap": "19",
+                    "ap_per_drop": "73.9",
+                    "dropchance": "25.7%"
+                }
+            ]
+        },
+        "Shell of Reminiscense": {
+            "rank": [
+                {
+                    "area": "Babylonia",
+                    "quest": "Observatory",
+                    "takeap": "21",
+                    "ap_per_drop": "50.4",
+                    "dropchance": "41.7%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Archipelago (Hidden island)",
+                    "takeap": "16",
+                    "ap_per_drop": "72.9",
+                    "dropchance": "22.0%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "90.0",
+                    "dropchance": "22.2%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "182.6",
+                    "dropchance": "16.4%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "196.8",
+                    "dropchance": "20.3%"
+                }
+            ]
+        },
+        "Kotan Magatama": {
+            "rank": []
+        },
+        "Eternal Ice": {
+            "rank": []
+        },
+        "Giant's Ring": {
+            "rank": []
+        },
+        "Aurora Steel": {
+            "rank": []
+        },
+        "Ancient Bell of Tranquility": {
+            "rank": []
+        },
+        "Claw of Chaos": {
+            "rank": [
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Des Moines",
+                    "takeap": "18",
+                    "ap_per_drop": "89.9",
+                    "dropchance": "20.0%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Ur",
+                    "takeap": "21",
+                    "ap_per_drop": "103.4",
+                    "dropchance": "20.3%"
+                },
+                {
+                    "area": "Septem",
+                    "quest": "Germania",
+                    "takeap": "15",
+                    "ap_per_drop": "399.9",
+                    "dropchance": "3.8%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "418.8",
+                    "dropchance": "9.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "570.0",
+                    "dropchance": "5.3%"
+                }
+            ]
+        },
+        "Heart of a Foreign God": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "610.6",
+                    "dropchance": "4.9%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "686.1",
+                    "dropchance": "5.8%"
+                }
+            ]
+        },
+        "Dragon's Reverse Scale": {
+            "rank": [
+                {
+                    "area": "Babylonia",
+                    "quest": "Nippur",
+                    "takeap": "21",
+                    "ap_per_drop": "220.5",
+                    "dropchance": "9.5%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "621.2",
+                    "dropchance": "6.4%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "630.0",
+                    "dropchance": "4.8%"
+                }
+            ]
+        },
+        "Spirit Root": {
+            "rank": [
+                {
+                    "area": "Camelot",
+                    "quest": "Holy City",
+                    "takeap": "20",
+                    "ap_per_drop": "178.5",
+                    "dropchance": "11.2%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Washington",
+                    "takeap": "20",
+                    "ap_per_drop": "393.3",
+                    "dropchance": "5.1%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "650.4",
+                    "dropchance": "6.1%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "1278.0",
+                    "dropchance": "2.3%"
+                }
+            ]
+        },
+        "Warhorse's Young Horn": {
+            "rank": [
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Kearney",
+                    "takeap": "18",
+                    "ap_per_drop": "124.1",
+                    "dropchance": "14.5%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "East Village",
+                    "takeap": "19",
+                    "ap_per_drop": "209.0",
+                    "dropchance": "9.1%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "341.3",
+                    "dropchance": "11.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "390.0",
+                    "dropchance": "7.7%"
+                }
+            ]
+        },
+        "Tearstone of Blood": {
+            "rank": [
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Alexandria",
+                    "takeap": "18",
+                    "ap_per_drop": "160.7",
+                    "dropchance": "11.2%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "359.2",
+                    "dropchance": "11.1%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "410.0",
+                    "dropchance": "7.3%"
+                }
+            ]
+        },
+        "Black Beast Grease": {
+            "rank": [
+                {
+                    "area": "Babylonia",
+                    "quest": "Northern Hill",
+                    "takeap": "20",
+                    "ap_per_drop": "100.0",
+                    "dropchance": "20.0%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Lubbock",
+                    "takeap": "18",
+                    "ap_per_drop": "190.8",
+                    "dropchance": "9.4%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "292.5",
+                    "dropchance": "13.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "570.0",
+                    "dropchance": "5.3%"
+                }
+            ]
+        },
+        "Lamp of Evil-Sealing": {
+            "rank": [
+                {
+                    "area": "Camelot",
+                    "quest": "Dune of Dawn",
+                    "takeap": "19",
+                    "ap_per_drop": "110.5",
+                    "dropchance": "17.2%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Hidden Village",
+                    "takeap": "21",
+                    "ap_per_drop": "125.5",
+                    "dropchance": "16.7%"
+                }
+            ]
+        },
+        "Scarab of Wisdom": {
+            "rank": [
+                {
+                    "area": "Camelot",
+                    "quest": "Great Temple",
+                    "takeap": "22",
+                    "ap_per_drop": "181.7",
+                    "dropchance": "12.1%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Sandstorm Desert",
+                    "takeap": "19",
+                    "ap_per_drop": "259.7",
+                    "dropchance": "7.3%"
+                }
+            ]
+        },
+        "Primordial Lanugo": {
+            "rank": [
+                {
+                    "area": "Babylonia",
+                    "quest": "Blood Fort",
+                    "takeap": "21",
+                    "ap_per_drop": "116.4",
+                    "dropchance": "18.0%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Northern Wall",
+                    "takeap": "21",
+                    "ap_per_drop": "139.6",
+                    "dropchance": "15.0%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Black Cedar Forest",
+                    "takeap": "20",
+                    "ap_per_drop": "148.0",
+                    "dropchance": "13.5%"
+                }
+            ]
+        },
+        "Cursed Beast Gallstone": {
+            "rank": [
+                {
+                    "area": "Babylonia",
+                    "quest": "Mt. Ebih",
+                    "takeap": "21",
+                    "ap_per_drop": "173.8",
+                    "dropchance": "12.1%"
+                }
+            ]
+        },
+        "Bizarre Godly Wine": {
+            "rank": []
+        },
+        "Dawnlight Reactor Core": {
+            "rank": []
+        },
+        "Secret Gem of Saber": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "130.1",
+                    "dropchance": "30.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "580.9",
+                    "dropchance": "5.2%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Washington",
+                    "takeap": "20",
+                    "ap_per_drop": "908.6",
+                    "dropchance": "2.2%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Holy City",
+                    "takeap": "20",
+                    "ap_per_drop": "920.0",
+                    "dropchance": "2.2%"
+                }
+            ]
+        },
+        "Secret Gem of Archer": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "141.9",
+                    "dropchance": "21.1%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "153.9",
+                    "dropchance": "26.0%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Land of the Void",
+                    "takeap": "22",
+                    "ap_per_drop": "455.6",
+                    "dropchance": "4.8%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Chicago",
+                    "takeap": "21",
+                    "ap_per_drop": "739.7",
+                    "dropchance": "2.8%"
+                }
+            ]
+        },
+        "Secret Gem of Lancer": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "143.7",
+                    "dropchance": "20.9%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "158.4",
+                    "dropchance": "25.3%"
+                }
+            ]
+        },
+        "Secret Gem of Rider": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "108.9",
+                    "dropchance": "36.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "236.3",
+                    "dropchance": "12.7%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Land of the Void",
+                    "takeap": "22",
+                    "ap_per_drop": "364.5",
+                    "dropchance": "6.0%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Nippur",
+                    "takeap": "21",
+                    "ap_per_drop": "441.0",
+                    "dropchance": "4.8%"
+                }
+            ]
+        },
+        "Secret Gem of Caster": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "48.3",
+                    "dropchance": "82.8%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "116.0",
+                    "dropchance": "25.9%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Great Temple",
+                    "takeap": "22",
+                    "ap_per_drop": "176.6",
+                    "dropchance": "12.5%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Sandstorm Desert",
+                    "takeap": "19",
+                    "ap_per_drop": "584.3",
+                    "dropchance": "3.3%"
+                },
+                {
+                    "area": "London",
+                    "quest": "Hyde Park",
+                    "takeap": "20",
+                    "ap_per_drop": "625.4",
+                    "dropchance": "3.2%"
+                }
+            ]
+        },
+        "Secret Gem of Assassin": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "139.4",
+                    "dropchance": "28.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "210.0",
+                    "dropchance": "14.3%"
+                },
+                {
+                    "area": "London",
+                    "quest": "Clerkenwell",
+                    "takeap": "18",
+                    "ap_per_drop": "622.5",
+                    "dropchance": "2.9%"
+                }
+            ]
+        },
+        "Secret Gem of Berserker": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "138.1",
+                    "dropchance": "29.0%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Holy City",
+                    "takeap": "20",
+                    "ap_per_drop": "244.1",
+                    "dropchance": "8.2%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "244.3",
+                    "dropchance": "12.3%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Mt. Ebih",
+                    "takeap": "21",
+                    "ap_per_drop": "630.7",
+                    "dropchance": "3.3%"
+                }
+            ]
+        },
+        "Magic Gem of Saber": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "23.0",
+                    "dropchance": "130.5%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "26.8",
+                    "dropchance": "74.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "33.3",
+                    "dropchance": "120.1%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Royal Castle",
+                    "takeap": "21",
+                    "ap_per_drop": "90.1",
+                    "dropchance": "23.3%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Fortress of the Round Table",
+                    "takeap": "19",
+                    "ap_per_drop": "110.8",
+                    "dropchance": "17.1%"
+                }
+            ]
+        },
+        "Magic Gem of Archer": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "18.6",
+                    "dropchance": "161.0%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "32.3",
+                    "dropchance": "124.0%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "66.3",
+                    "dropchance": "30.2%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Chicago",
+                    "takeap": "21",
+                    "ap_per_drop": "128.0",
+                    "dropchance": "16.4%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Bog",
+                    "takeap": "21",
+                    "ap_per_drop": "173.3",
+                    "dropchance": "12.1%"
+                }
+            ]
+        },
+        "Magic Gem of Lancer": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "19.6",
+                    "dropchance": "152.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "28.3",
+                    "dropchance": "70.8%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "33.5",
+                    "dropchance": "119.3%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "East Village",
+                    "takeap": "19",
+                    "ap_per_drop": "125.4",
+                    "dropchance": "15.2%"
+                },
+                {
+                    "area": "London",
+                    "quest": "Southwark",
+                    "takeap": "19",
+                    "ap_per_drop": "155.1",
+                    "dropchance": "12.3%"
+                }
+            ]
+        },
+        "Magic Gem of Rider": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "22.2",
+                    "dropchance": "90.2%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "23.3",
+                    "dropchance": "128.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "39.3",
+                    "dropchance": "101.7%"
+                },
+                {
+                    "area": "Orleans",
+                    "quest": "Orleans",
+                    "takeap": "8",
+                    "ap_per_drop": "141.8",
+                    "dropchance": "5.6%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Eridu",
+                    "takeap": "21",
+                    "ap_per_drop": "143.8",
+                    "dropchance": "14.6%"
+                }
+            ]
+        },
+        "Magic Gem of Caster": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "18.9",
+                    "dropchance": "159.0%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "30.8",
+                    "dropchance": "64.9%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "45.0",
+                    "dropchance": "88.8%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Dune of Dawn",
+                    "takeap": "19",
+                    "ap_per_drop": "71.5",
+                    "dropchance": "26.6%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Sunken Rock Seas",
+                    "takeap": "17",
+                    "ap_per_drop": "84.9",
+                    "dropchance": "20.0%"
+                }
+            ]
+        },
+        "Magic Gem of Assassin": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "19.1",
+                    "dropchance": "104.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "19.6",
+                    "dropchance": "153.4%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "33.8",
+                    "dropchance": "118.2%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Northern Hill",
+                    "takeap": "20",
+                    "ap_per_drop": "85.7",
+                    "dropchance": "23.3%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Mausoleum of the Evening Bell",
+                    "takeap": "19",
+                    "ap_per_drop": "130.8",
+                    "dropchance": "14.5%"
+                }
+            ]
+        },
+        "Magic Gem of Berserker": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "22.5",
+                    "dropchance": "133.3%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "33.1",
+                    "dropchance": "60.5%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "35.5",
+                    "dropchance": "112.5%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Mt. Ebih",
+                    "takeap": "21",
+                    "ap_per_drop": "83.7",
+                    "dropchance": "25.1%"
+                },
+                {
+                    "area": "Babylonia",
+                    "quest": "Ur",
+                    "takeap": "21",
+                    "ap_per_drop": "96.3",
+                    "dropchance": "21.8%"
+                }
+            ]
+        },
+        "Gem of Saber": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "7.6",
+                    "dropchance": "131.1%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "15.8",
+                    "dropchance": "127.0%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-C",
+                    "takeap": "4",
+                    "ap_per_drop": "19.3",
+                    "dropchance": "20.7%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-E",
+                    "takeap": "5",
+                    "ap_per_drop": "20.8",
+                    "dropchance": "24.0%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-B",
+                    "takeap": "4",
+                    "ap_per_drop": "21.0",
+                    "dropchance": "19.0%"
+                }
+            ]
+        },
+        "Gem of Archer": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "7.8",
+                    "dropchance": "128.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "13.3",
+                    "dropchance": "150.8%"
+                },
+                {
+                    "area": "Septem",
+                    "quest": "Shaped Isle",
+                    "takeap": "9",
+                    "ap_per_drop": "26.3",
+                    "dropchance": "34.2%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-F",
+                    "takeap": "5",
+                    "ap_per_drop": "26.4",
+                    "dropchance": "19.0%"
+                },
+                {
+                    "area": "Septem",
+                    "quest": "Florence",
+                    "takeap": "9",
+                    "ap_per_drop": "27.8",
+                    "dropchance": "32.4%"
+                }
+            ]
+        },
+        "Gem of Lancer": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "8.8",
+                    "dropchance": "113.2%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "18.8",
+                    "dropchance": "106.2%"
+                },
+                {
+                    "area": "Orleans",
+                    "quest": "Bordeaux",
+                    "takeap": "7",
+                    "ap_per_drop": "24.6",
+                    "dropchance": "28.5%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-C",
+                    "takeap": "4",
+                    "ap_per_drop": "27.5",
+                    "dropchance": "14.6%"
+                },
+                {
+                    "area": "Septem",
+                    "quest": "Britannia",
+                    "takeap": "10",
+                    "ap_per_drop": "29.7",
+                    "dropchance": "33.7%"
+                }
+            ]
+        },
+        "Gem of Rider": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "8.5",
+                    "dropchance": "117.4%"
+                },
+                {
+                    "area": "Orleans",
+                    "quest": "Thiers",
+                    "takeap": "7",
+                    "ap_per_drop": "21.2",
+                    "dropchance": "33.1%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "21.7",
+                    "dropchance": "92.2%"
+                },
+                {
+                    "area": "Orleans",
+                    "quest": "La Charite",
+                    "takeap": "7",
+                    "ap_per_drop": "23.5",
+                    "dropchance": "29.9%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Island of Wyverns",
+                    "takeap": "14",
+                    "ap_per_drop": "30.3",
+                    "dropchance": "46.1%"
+                }
+            ]
+        },
+        "Gem of Caster": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "8.0",
+                    "dropchance": "124.8%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "20.7",
+                    "dropchance": "96.5%"
+                },
+                {
+                    "area": "London",
+                    "quest": "Regent Park",
+                    "takeap": "16",
+                    "ap_per_drop": "46.2",
+                    "dropchance": "34.6%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Dune of Dawn",
+                    "takeap": "19",
+                    "ap_per_drop": "76.0",
+                    "dropchance": "25.0%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Sunken Rock Seas",
+                    "takeap": "17",
+                    "ap_per_drop": "104.5",
+                    "dropchance": "16.3%"
+                }
+            ]
+        },
+        "Gem of Assassin": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "7.7",
+                    "dropchance": "129.9%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "22.8",
+                    "dropchance": "87.9%"
+                },
+                {
+                    "area": "Septem",
+                    "quest": "Mt. Etna",
+                    "takeap": "9",
+                    "ap_per_drop": "25.4",
+                    "dropchance": "35.4%"
+                },
+                {
+                    "area": "Orleans",
+                    "quest": "Bordeaux",
+                    "takeap": "7",
+                    "ap_per_drop": "27.9",
+                    "dropchance": "25.1%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Stormy Seas",
+                    "takeap": "15",
+                    "ap_per_drop": "30.4",
+                    "dropchance": "49.3%"
+                }
+            ]
+        },
+        "Gem of Berserker": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "7.7",
+                    "dropchance": "130.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "16.2",
+                    "dropchance": "123.5%"
+                },
+                {
+                    "area": "Septem",
+                    "quest": "Gaul",
+                    "takeap": "9",
+                    "ap_per_drop": "58.1",
+                    "dropchance": "15.5%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Two-Current Sea",
+                    "takeap": "14",
+                    "ap_per_drop": "68.0",
+                    "dropchance": "20.6%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "King's Abode Island",
+                    "takeap": "13",
+                    "ap_per_drop": "92.1",
+                    "dropchance": "14.1%"
+                }
+            ]
+        },
+        "Saber Monument": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "71.2",
+                    "dropchance": "56.1%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "96.8",
+                    "dropchance": "31.0%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "297.5",
+                    "dropchance": "3.4%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "315.0",
+                    "dropchance": "6.3%"
+                },
+                {
+                    "area": "Camelot",
+                    "quest": "Royal Castle",
+                    "takeap": "21",
+                    "ap_per_drop": "400.3",
+                    "dropchance": "5.2%"
+                }
+            ]
+        },
+        "Archer Monument": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "81.8",
+                    "dropchance": "48.9%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "92.3",
+                    "dropchance": "32.5%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Montgomery",
+                    "takeap": "18",
+                    "ap_per_drop": "405.0",
+                    "dropchance": "4.4%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "420.0",
+                    "dropchance": "4.8%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "558.0",
+                    "dropchance": "1.8%"
+                }
+            ]
+        },
+        "Lancer Monument": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "70.5",
+                    "dropchance": "56.8%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "97.5",
+                    "dropchance": "30.8%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Riverton",
+                    "takeap": "17",
+                    "ap_per_drop": "214.2",
+                    "dropchance": "7.9%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Des Moines",
+                    "takeap": "18",
+                    "ap_per_drop": "284.8",
+                    "dropchance": "6.3%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "325.0",
+                    "dropchance": "6.2%"
+                }
+            ]
+        },
+        "Rider Monument": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "61.0",
+                    "dropchance": "49.2%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "76.2",
+                    "dropchance": "52.5%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "291.4",
+                    "dropchance": "6.9%"
+                },
+                {
+                    "area": "Okeanos",
+                    "quest": "Pirate Island",
+                    "takeap": "13",
+                    "ap_per_drop": "578.5",
+                    "dropchance": "2.2%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "745.0",
+                    "dropchance": "1.3%"
+                }
+            ]
+        },
+        "Caster Monument": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "72.6",
+                    "dropchance": "55.1%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "89.5",
+                    "dropchance": "33.5%"
+                },
+                {
+                    "area": "London",
+                    "quest": "Soho",
+                    "takeap": "16",
+                    "ap_per_drop": "196.0",
+                    "dropchance": "8.2%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "253.3",
+                    "dropchance": "7.9%"
+                },
+                {
+                    "area": "London",
+                    "quest": "Westminster",
+                    "takeap": "16",
+                    "ap_per_drop": "256.0",
+                    "dropchance": "6.3%"
+                }
+            ]
+        },
+        "Assassin Monument": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "70.7",
+                    "dropchance": "56.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "79.8",
+                    "dropchance": "37.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "305.7",
+                    "dropchance": "6.5%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "317.5",
+                    "dropchance": "3.1%"
+                },
+                {
+                    "area": "London",
+                    "quest": "White Chapel",
+                    "takeap": "15",
+                    "ap_per_drop": "735.0",
+                    "dropchance": "2.0%"
+                }
+            ]
+        },
+        "Berserker Monument": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "73.2",
+                    "dropchance": "54.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "77.7",
+                    "dropchance": "38.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "119.0",
+                    "dropchance": "16.8%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Charlotte",
+                    "takeap": "20",
+                    "ap_per_drop": "185.3",
+                    "dropchance": "10.8%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "293.8",
+                    "dropchance": "3.4%"
+                }
+            ]
+        },
+        "Saber Piece": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "25.2",
+                    "dropchance": "79.4%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "29.0",
+                    "dropchance": "103.3%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "42.5",
+                    "dropchance": "23.5%"
+                },
+                {
+                    "area": "Chaldea Gate (Sun)",
+                    "quest": "SUN Saber Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "55.6",
+                    "dropchance": "71.9%"
+                },
+                {
+                    "area": "Septem",
+                    "quest": "Gaul",
+                    "takeap": "9",
+                    "ap_per_drop": "84.3",
+                    "dropchance": "10.7%"
+                }
+            ]
+        },
+        "Archer Piece": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "25.6",
+                    "dropchance": "117.1%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "28.0",
+                    "dropchance": "71.4%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "48.5",
+                    "dropchance": "82.5%"
+                },
+                {
+                    "area": "Chaldea Gate (Mon)",
+                    "quest": "MON Archer Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "49.8",
+                    "dropchance": "20.1%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Montgomery",
+                    "takeap": "18",
+                    "ap_per_drop": "135.0",
+                    "dropchance": "13.3%"
+                }
+            ]
+        },
+        "Lancer Piece": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "28.1",
+                    "dropchance": "106.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "29.5",
+                    "dropchance": "67.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "40.8",
+                    "dropchance": "24.5%"
+                },
+                {
+                    "area": "Chaldea Gate (Tue)",
+                    "quest": "TUE Lancer Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "51.2",
+                    "dropchance": "78.1%"
+                },
+                {
+                    "area": "E Pluribus Unum",
+                    "quest": "Riverton",
+                    "takeap": "17",
+                    "ap_per_drop": "76.5",
+                    "dropchance": "22.2%"
+                }
+            ]
+        },
+        "Rider Piece": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "28.3",
+                    "dropchance": "70.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "31.5",
+                    "dropchance": "95.2%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "40.8",
+                    "dropchance": "24.5%"
+                },
+                {
+                    "area": "Chaldea Gate (Thu)",
+                    "quest": "THU Rider Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "48.9",
+                    "dropchance": "81.8%"
+                },
+                {
+                    "area": "Orleans",
+                    "quest": "Jura",
+                    "takeap": "7",
+                    "ap_per_drop": "72.1",
+                    "dropchance": "9.7%"
+                }
+            ]
+        },
+        "Caster Piece": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "22.1",
+                    "dropchance": "90.4%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "33.8",
+                    "dropchance": "29.6%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "34.8",
+                    "dropchance": "86.1%"
+                },
+                {
+                    "area": "Chaldea Gate (Fri)",
+                    "quest": "FRI Caster Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "48.4",
+                    "dropchance": "82.6%"
+                },
+                {
+                    "area": "Orleans",
+                    "quest": "Orleans",
+                    "takeap": "8",
+                    "ap_per_drop": "82.1",
+                    "dropchance": "9.7%"
+                }
+            ]
+        },
+        "Assassin Piece": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "26.4",
+                    "dropchance": "75.7%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "29.1",
+                    "dropchance": "103.0%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "35.3",
+                    "dropchance": "28.3%"
+                },
+                {
+                    "area": "Chaldea Gate (Sat)",
+                    "quest": "SAT Assassin Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "49.6",
+                    "dropchance": "80.7%"
+                },
+                {
+                    "area": "Fuyuki",
+                    "quest": "Unknown Coordinates X-F",
+                    "takeap": "5",
+                    "ap_per_drop": "76.5",
+                    "dropchance": "6.5%"
+                }
+            ]
+        },
+        "Berserker Piece": {
+            "rank": [
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Adv",
+                    "takeap": "30",
+                    "ap_per_drop": "32.9",
+                    "dropchance": "91.2%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Int",
+                    "takeap": "20",
+                    "ap_per_drop": "35.5",
+                    "dropchance": "56.3%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Exp",
+                    "takeap": "40",
+                    "ap_per_drop": "47.0",
+                    "dropchance": "85.1%"
+                },
+                {
+                    "area": "Chaldea Gate (Wed)",
+                    "quest": "WED Berserker Training Ground- Nov",
+                    "takeap": "10",
+                    "ap_per_drop": "50.0",
+                    "dropchance": "20.0%"
+                },
+                {
+                    "area": "Orleans",
+                    "quest": "Thiers",
+                    "takeap": "7",
+                    "ap_per_drop": "68.1",
+                    "dropchance": "10.3%"
+                }
+            ]
+        }
+    }
+}

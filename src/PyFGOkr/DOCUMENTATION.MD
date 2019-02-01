@@ -15,6 +15,7 @@ import PyFGOkr.<모듈 이름>
 | [gacha](#gacha)         |       뽑기와 관련된 기능을 담당하는 모듈입니다.       |
 | [servstat](#servstat)      | 서번트에 대한 정보를 데이터화 시키기 위한 모듈입니다. |
 | [view_pickup](#view_pickup)   |    각종 픽업과 관련된 기능을 담당하는 모듈입니다.     |
+| [itemsurfer](#itemsurfer) | 입력한 재료를 효율적으로 파밍할 수 있는 지역을 찾아주는 모듈입니다. |
 
 ## [calc](#모듈에-대한-설명)
 
@@ -168,6 +169,8 @@ fgo_gain_np_calc_discord(input_str)
 
 ## [gacha](#모듈에-대한-설명)
 
+> pip install Pillow
+
 | 함수 이름           | 기능                                                         |
 | ------------------- | ------------------------------------------------------------ |
 | gacha_simulate(...) | 조건을 넣고 해당 조건을 완수할 때의 뽑기 결과를 텍스트로 시뮬레이션합니다. |
@@ -223,6 +226,10 @@ gacha_clear(resultpath='')
 
 ## [servstat](#모듈에-대한-설명)
 
+> pip install requests
+
+> pip install bs4
+
 | 함수 이름   | 기능                                                         |
 | ----------- | ------------------------------------------------------------ |
 | out_dict    | 서번트에 대한 정보를 웹에서 크롤링하여 dict 자료형으로 반환합니다. |
@@ -255,6 +262,8 @@ out_discord(args)
   ```
 
 ## [view_pickup](#모듈에-대한-설명)
+
+> pip install sqlite3
 
 | 함수 이름                  | 기능                                                         |
 | -------------------------- | ------------------------------------------------------------ |
@@ -290,7 +299,7 @@ data_pickup(id)
 
 해당 id의 픽업에 대한 데이터를 dict 자료형으로 반환합니다.
 
-* id
+* *id*
   대상 픽업의 id값
 
 ```python
@@ -321,6 +330,90 @@ call_discord(input_str)
   '-a =2' # 2015년 픽업의 2페이지를 반환
   ':1' # 페그오 사상 첫번째 픽업을 반환
   ```
+
+## [itemsurfer](#모듈에-대한-설명)
+
+> pip install gspread
+
+> pip install --upgrade oauth2client
+
+> pip install PyOpenSSL
+
+| 모듈 정보                    | 기능                                                         |
+| ---------------------------- | ------------------------------------------------------------ |
+| Pickup_data(...)             | Pickup data 객체를 생성하는 생성자 함수입니다. 생성하면서 옵션에 따라 data 필드가 생성됩니다. |
+| Pickup_data.make_json()      | 구글 시트로부터 받아온 정보를 json 파일로 만들고, data 필드에 dict  형태로 저장합니다. |
+| Pickup_data.make_keyfile()   | data 필드로부터 번역 이전의 원본 key 파일을 생성합니다.      |
+| Pickup_data.search_item(...) | 지정한 재료에 관한 효율 정보를 dict 자료형으로 반환합니다.   |
+
+itemsurfer는 FGO의 재료 효율성에 대한 데이터를 만들고, 그 데이터를 기반으로 자료를 검색하기 위해 만들어진 모듈입니다. [FGO Reddit](https://www.reddit.com/r/grandorder/)의 [Grand Order FGO Drop Rates](https://docs.google.com/spreadsheets/d/1_SlTjrVRTgHgfS7sRqx4CeJMqlz687HdSlYqiW-JvQA) 시트를 원본 데이터로 삼습니다. 데이터는 아래와 같은 형태로 만들어집니다.
+
+```json
+{
+    "jp": {
+        "Proof of Hero": {
+            "rank": [
+                {
+                    "area": "Okeanos",
+                    "quest": "Pirate Ship",
+                    "takeap": "12",
+                    "ap_per_drop": "20.1",
+                    "dropchance": "59.7%"
+                },
+                {
+                    "area": "Orleans",
+                    "quest": "Marseille",
+                    "takeap": "7",
+                    "ap_per_drop": "23.8",
+                    "dropchance": "29.5%"
+                }
+            ]
+        }
+    },
+    "kr": {
+        ...
+    }
+```
+
+key 값이 'jp'인 경우 일본 기준으로, 'kr'의 경우 영판 기준으로 데이터를 반환합니다. 영어 시트에서 받아와 영어로 만들어진 `fgo_item.json` 데이터 파일은 `kr2eng_item.json` 파일을 이용하여 한글로 받은 질의를 영어로 변환한 후, 모듈 폴더 안의 `eng2kr_area.json`,  `eng2kr_quest.json`,  `man_eng2kr_quest.json`을 이용하여 데이터를 한글로 출력시킵니다.
+
+```python
+Pickup_data(datajson=False, apijson=apijson)
+```
+
+Pickup_data 객체를 생성하는 생성자 함수입니다. `pd = Pickup_data(True)` 같은 식으로 생성해주세요.
+
+이 모듈은 Pickup_data 객체를 통해 기능합니다. 외부 구글 시트로부터 크롤링해 `fgo_item.json` 파일을 만들기 위해선 구글 스프레드 시트 관련 API 키가 필요합니다. apijson 속성의 default 변수 apijson은 기본적으로 `scret_credentials.json` 파일을 지정하니 구글 개발자 콘솔에서 만든 json 파일의 이름을 바꿔 패키지 폴더에 해당 이름으로 넣어주세요.
+
+* *datajson*
+  `False`: 구글 시트로부터 데이터를 받아와 json 파일을 만듭니다. 파일 생성에 다소 시간이 요구됩니다.
+  `True`: 패키지 폴더 내부의 `fgo_item.json`을 참조합니다.
+
+* *apijson*
+  구글 스프레드를 다루기 위해 참조할 API key 파일을 입력 받는 변수입니다. 파일 이름 설정을 따로 하지 않는다면 폴더 내부의  `secret_credentials.json` 파일을 참조합니다.
+
+```python
+Pickup_data.make_json()
+```
+
+이미 생성된 객체의 data 필드 업데이트를 위해 구글 시트로부터 json 파일을 새로 만든 후 해당 파일로 새로이 참조시키는 메소드입니다.
+
+```python
+Pickup_data.make_keyfile(option='all', recur_data=[])
+```
+
+`raw_.json` 파일로 생성됩니다. 생성된 `raw_.json` 파일들의 value를 채워줌으로서 해석 리소스로 이용이 가능합니다. value를 다 채워주신 후, raw_를 제거시키면 데이터 파일로 이용이 가능합니다. `eng2kr_quest.json`의 경우 `itemsurfer_transmaker.py`를 이용하면 쉽게 생성하실 수 있습니다.
+
+* *option*
+  `'item'`: 재료 이름에 대한 raw 파일을 생성합니다.
+  `'area'`: 지역 이름에 대한 raw 파일을 생성합니다.
+  `'quest'`: 퀘스트 이름에 대한 raw 파일을 생성합니다.
+
+  `'all'`: 재료 이름, 지역 이름, 퀘스트 이름에 대한 raw 파일을 생성합니다.
+  `'manquest'`: `eng2kr_quest.json` 파일을 참조하여 퀘스트 이름에 대한, 수동입력해야만 하는 데이터인 `man_eng2kr_quest.json`을 만듭니다. 만약 데이터가 없다면 새로 생성하고, 데이터가 있다면 새로 채워야하는 key 값만 추가됩니다.
+
+* *recur_data*
+  재귀 함수로 사용하기 위해 있는 인자값입니다. 값을 넣지 말아주세요.
 
 # 그 외
 
